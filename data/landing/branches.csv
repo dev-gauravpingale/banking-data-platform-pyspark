@@ -1,0 +1,11 @@
+branch_id,branch_name,city,state,region,zone,ifsc_code,manager_name,branch_phone,branch_email
+BR001,Mumbai Fort,Mumbai,Maharashtra,West,West Zone,ABCB0000001,Vikram Patel,022-13356886,mumbaifort@abcbank.com
+BR002,Andheri East,Mumbai,Maharashtra,West,West Zone,ABCB0000002,Deepak Joshi,022-42868828,andherieast@abcbank.com
+BR003,Pune Shivajinagar,Pune,Maharashtra,West,West Zone,ABCB0000003,Priya Gupta,022-23756669,puneshivajinagar@abcbank.com
+BR004,Bengaluru MG Road,Bengaluru,Karnataka,South,South Zone,ABCB0000004,Vikram Reddy,022-21668732,bengalurumgroad@abcbank.com
+BR005,Chennai T Nagar,Chennai,Tamil Nadu,South,South Zone,ABCB0000005,Anjali Iyer,022-14265799,chennaitnagar@abcbank.com
+BR006,Hyderabad Banjara Hills,Hyderabad,Telangana,South,South Zone,ABCB0000006,Rahul Patel,022-39345092,hyderabadbanjarahills@abcbank.com
+BR007,Delhi Connaught Place,New Delhi,Delhi,North,North Zone,ABCB0000007,Priya Reddy,022-90801586,delhiconnaughtplace@abcbank.com
+BR008,Jaipur C Scheme,Jaipur,Rajasthan,North,North Zone,ABCB0000008,Rahul Reddy,022-36687537,jaipurcscheme@abcbank.com
+BR009,Kolkata Park Street,Kolkata,West Bengal,East,East Zone,ABCB0000009,Deepak Reddy,022-66306997,kolkataparkstreet@abcbank.com
+BR010,Ahmedabad Navrangpura,Ahmedabad,Gujarat,West,West Zone,ABCB0000010,Priya Nair,022-89089901,ahmedabadnavrangpura@abcbank.com

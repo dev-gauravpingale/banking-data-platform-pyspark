@@ -1,0 +1,501 @@
+customer_id,first_name,last_name,gender,date_of_birth,email,phone,city,state,occupation,customer_segment,kyc_status,risk_rating,created_date
+CUST000001,Daksh,Bakshi,Male,1996-05-13,daksh.bakshi760@gmail.com,1819600133,Mumbai,Maharashtra,Business Owner,Retail,Completed,Low,2022-09-26
+CUST000002,Hardik,Saini,Male,1971-11-16,hardik.saini433@gmail.com,2654235116,Ahmedabad,Gujarat,Software Engineer,Retail,Completed,Low,2024-06-16
+CUST000003,Kevin,Bassi,Male,1995-10-23,kevin.bassi204@gmail.com,1849593103,Kolkata,West Bengal,Retired,Retail,Completed,Low,2024-03-11
+CUST000004,Daksha,Rai,Female,1974-07-30,daksha.rai778@gmail.com,2553419283,Mumbai,Maharashtra,Teacher,Retail,Completed,Low,2024-09-09
+CUST000005,Lopa,Kanda,Female,1993-09-09,lopa.kanda95@gmail.com,3056413953,Mumbai,Maharashtra,Sales Executive,Retail,Completed,Low,2025-09-22
+CUST000006,Ekbal,Lanka,Male,1968-01-28,ekbal.lanka550@gmail.com,9696532871,Jaipur,Rajasthan,Doctor,Premium,Completed,Low,2025-03-28
+CUST000007,Gauri,Sami,Female,1989-07-17,gauri.sami197@gmail.com,8480184514,Ahmedabad,Gujarat,Retired,Retail,Completed,Medium,2023-06-08
+CUST000008,Aarav,Lall,Male,2007-03-11,aarav.lall888@gmail.com,4893252880,Bengaluru,Karnataka,Doctor,Retail,Completed,Medium,2025-04-28
+CUST000009,Aditya,Choudhury,Male,2005-03-06,aditya.choudhury364@gmail.com,3039117182,Hyderabad,Telangana,Lawyer,Retail,Completed,Low,2025-11-27
+CUST000010,Fitan,Lanka,Male,1986-04-25,fitan.lanka651@gmail.com,8346578713,Ahmedabad,Gujarat,Teacher,Retail,Completed,Low,2024-07-18
+CUST000011,Aishani,Karpe,Female,1989-03-03,aishani.karpe225@gmail.com,3105183473,Kolkata,West Bengal,Student,Retail,Completed,Low,2021-07-19
+CUST000012,Warjas,Kibe,Male,1998-05-22,warjas.kibe411@gmail.com,1165667010,Hyderabad,Telangana,Business Owner,Retail,Completed,Low,2025-07-20
+CUST000013,Kritika,Handa,Female,1970-06-15,kritika.handa672@gmail.com,2473178108,Bengaluru,Karnataka,Chartered Accountant,Retail,Completed,Low,2023-10-03
+CUST000014,Geetika,Ray,Female,1984-05-03,geetika.ray253@gmail.com,0260647468,Pune,Maharashtra,Retired,Retail,Completed,Low,2022-07-31
+CUST000015,Neelima,Kalla,Female,2007-01-15,neelima.kalla225@gmail.com,5009788208,Hyderabad,Telangana,Teacher,Retail,Completed,Low,2024-05-29
+CUST000016,Bahadurjit,Keer,Male,1980-06-28,bahadurjit.keer643@gmail.com,9909169985,Pune,Maharashtra,Teacher,Priority,Completed,Low,2026-03-22
+CUST000017,Kashvi,Lanka,Female,1980-02-12,kashvi.lanka480@gmail.com,7510799118,Ahmedabad,Gujarat,Mechanical Engineer,Retail,Completed,Medium,2024-11-14
+CUST000018,Dominic,Palla,Male,2002-11-29,dominic.palla769@gmail.com,4278498084,Kolkata,West Bengal,Business Owner,Priority,Completed,Low,2025-11-28
+CUST000019,Dalbir,Chhabra,Male,1996-05-28,dalbir.chhabra4@gmail.com,9353487401,Jaipur,Rajasthan,Retired,Priority,Completed,Low,2022-04-16
+CUST000020,Aarav,Nath,Male,1997-10-03,aarav.nath935@gmail.com,2786801128,Kolkata,West Bengal,Doctor,Priority,Completed,Low,2024-09-12
+CUST000021,Ethan,Sani,Male,1967-07-03,ethan.sani383@gmail.com,5331586923,Pune,Maharashtra,Teacher,Retail,Completed,Low,2023-01-20
+CUST000022,Advik,Gola,Male,1996-02-17,advik.gola332@gmail.com,3421607337,Ahmedabad,Gujarat,Chartered Accountant,Retail,Completed,Medium,2023-03-04
+CUST000023,Jasmit,Bajwa,Female,1992-07-14,jasmit.bajwa60@gmail.com,1458685014,Bengaluru,Karnataka,Lawyer,Priority,Completed,Low,2023-07-03
+CUST000024,Anjali,Chopra,Female,1989-07-20,anjali.chopra779@gmail.com,6981693406,Mumbai,Maharashtra,Mechanical Engineer,Priority,Completed,Low,2023-03-29
+CUST000025,Guneet,Patla,Male,1981-10-13,guneet.patla541@gmail.com,9514846564,Chennai,Tamil Nadu,Civil Engineer,Retail,Completed,Low,2026-04-04
+CUST000026,Shivansh,Raghavan,Male,1993-05-06,shivansh.raghavan409@gmail.com,6804436995,Chennai,Tamil Nadu,Student,Retail,Completed,Low,2026-01-10
+CUST000027,Hredhaan,Vaidya,Male,1983-10-02,hredhaan.vaidya231@gmail.com,1489513433,Bengaluru,Karnataka,Doctor,Retail,Completed,Low,2026-01-07
+CUST000028,Jason,Soman,Male,1990-03-30,jason.soman73@gmail.com,6936763201,Mumbai,Maharashtra,Retired,Retail,Completed,Medium,2025-05-10
+CUST000029,Yochana,Shetty,Female,1963-11-16,yochana.shetty527@gmail.com,7278895798,Mumbai,Maharashtra,Lawyer,Retail,Completed,Low,2022-10-04
+CUST000030,Gauri,Soman,Female,1982-08-31,gauri.soman804@gmail.com,8734714345,Bengaluru,Karnataka,Chartered Accountant,Priority,Completed,Low,2025-04-09
+CUST000031,Ekantika,Dora,Female,1972-05-19,ekantika.dora434@gmail.com,1665876036,Hyderabad,Telangana,Sales Executive,Retail,Completed,Low,2024-12-24
+CUST000032,Ranveer,Sood,Male,1961-10-16,ranveer.sood413@gmail.com,6889373467,Mumbai,Maharashtra,Retired,Retail,Completed,Low,2023-04-09
+CUST000033,Samaksh,Gandhi,Male,2001-01-06,samaksh.gandhi460@gmail.com,6990162720,Kolkata,West Bengal,Teacher,Retail,Completed,Low,2026-02-10
+CUST000034,Hitesh,Sha,Male,1976-11-15,hitesh.sha828@gmail.com,4641708053,Jaipur,Rajasthan,Mechanical Engineer,Retail,Completed,Low,2025-04-26
+CUST000035,Jatin,Iyengar,Male,2000-12-15,jatin.iyengar949@gmail.com,2719374529,Mumbai,Maharashtra,Lawyer,Retail,Completed,Low,2024-08-14
+CUST000036,Nimrat,Chokshi,Female,1988-09-16,nimrat.chokshi169@gmail.com,6319314919,Mumbai,Maharashtra,Sales Executive,Retail,Completed,Medium,2026-02-27
+CUST000037,Upadhriti,Prabhakar,Female,1964-10-02,upadhriti.prabhakar434@gmail.com,6716572628,Chennai,Tamil Nadu,Retired,Premium,Pending,Low,2024-10-01
+CUST000038,Warhi,Shroff,Female,1981-12-26,warhi.shroff195@gmail.com,5314737996,Pune,Maharashtra,Business Owner,Retail,Completed,Low,2025-03-02
+CUST000039,Nicholas,Gopal,Male,1984-06-05,nicholas.gopal59@gmail.com,5494808313,Hyderabad,Telangana,Software Engineer,Retail,Completed,Medium,2023-04-15
+CUST000040,Jai,Soni,Male,1991-11-14,jai.soni984@gmail.com,1436349578,Mumbai,Maharashtra,Mechanical Engineer,Retail,Completed,Low,2023-12-19
+CUST000041,Noah,Pandey,Male,1994-07-19,noah.pandey123@gmail.com,3135182337,New Delhi,Delhi,Civil Engineer,Retail,Completed,Low,2022-11-12
+CUST000042,Megha,Chaudhry,Female,2000-08-23,megha.chaudhry579@gmail.com,2408240084,Ahmedabad,Gujarat,Mechanical Engineer,Retail,Completed,Low,2022-12-29
+CUST000043,Abha,Mane,Female,1983-07-29,abha.mane272@gmail.com,0471167190,Bengaluru,Karnataka,Sales Executive,Retail,Completed,Low,2023-09-18
+CUST000044,Max,Chada,Male,2008-03-23,max.chada470@gmail.com,9993867749,Mumbai,Maharashtra,Civil Engineer,Premium,Pending,Low,2022-02-07
+CUST000045,Ayushman,Chaudhary,Male,2006-01-18,ayushman.chaudhary272@gmail.com,4123281206,Kolkata,West Bengal,Teacher,Premium,Completed,Medium,2022-07-20
+CUST000046,Mugdha,Bali,Female,1972-05-23,mugdha.bali162@gmail.com,1349361832,Chennai,Tamil Nadu,Chartered Accountant,Priority,Completed,Low,2025-01-17
+CUST000047,Ayushman,Gandhi,Male,1998-10-07,ayushman.gandhi307@gmail.com,7174648877,Kolkata,West Bengal,Student,Retail,Completed,Low,2024-06-27
+CUST000048,Tarak,Naidu,Male,1989-11-20,tarak.naidu160@gmail.com,9904902787,Kolkata,West Bengal,Business Owner,Retail,Completed,Low,2021-08-22
+CUST000049,Urmi,Swamy,Female,2007-01-21,urmi.swamy501@gmail.com,5512567468,Kolkata,West Bengal,Business Owner,Premium,Completed,Low,2023-11-11
+CUST000050,Nisha,Krishnan,Female,1976-09-15,nisha.krishnan46@gmail.com,8087603859,Chennai,Tamil Nadu,Software Engineer,Retail,Completed,High,2026-05-13
+CUST000051,Harsh,Loke,Male,1987-04-29,harsh.loke565@gmail.com,7109324808,Jaipur,Rajasthan,Retired,Retail,Completed,Low,2026-02-24
+CUST000052,Dakshesh,Shenoy,Male,2006-01-09,dakshesh.shenoy37@gmail.com,7484677378,Kolkata,West Bengal,Government Employee,Retail,Completed,Low,2024-10-01
+CUST000053,Yashoda,Deshpande,Female,2002-02-13,yashoda.deshpande921@gmail.com,5840449972,Hyderabad,Telangana,Software Engineer,Priority,Completed,Low,2022-11-22
+CUST000054,Orinder,Natarajan,Male,1987-06-15,orinder.natarajan799@gmail.com,5339636057,Hyderabad,Telangana,Mechanical Engineer,Priority,Completed,Low,2024-03-24
+CUST000055,Yug,Bansal,Male,1967-06-13,yug.bansal886@gmail.com,1718702621,Bengaluru,Karnataka,Teacher,Premium,Completed,Medium,2026-05-04
+CUST000056,Rushil,Buch,Male,2001-07-18,rushil.buch755@gmail.com,5780913431,Pune,Maharashtra,Government Employee,Priority,Completed,Low,2025-10-10
+CUST000057,Tristan,Ganesan,Male,1994-02-17,tristan.ganesan164@gmail.com,5045562386,Chennai,Tamil Nadu,Retired,Retail,Completed,Medium,2026-01-11
+CUST000058,Gagan,Brar,Male,1990-02-27,gagan.brar837@gmail.com,7923747407,Bengaluru,Karnataka,Chartered Accountant,Retail,Completed,Medium,2023-06-04
+CUST000059,Balhaar,Sathe,Male,2005-12-08,balhaar.sathe676@gmail.com,6474367136,Mumbai,Maharashtra,Lawyer,Retail,Completed,Low,2026-06-14
+CUST000060,Neelima,Merchant,Female,1962-07-18,neelima.merchant657@gmail.com,4090974395,Hyderabad,Telangana,Mechanical Engineer,Retail,Pending,Low,2025-08-30
+CUST000061,Jeremiah,Devan,Male,1991-01-15,jeremiah.devan899@gmail.com,4709521456,Mumbai,Maharashtra,Business Owner,Retail,Pending,Low,2026-01-11
+CUST000062,Qadim,Wali,Male,1985-02-04,qadim.wali445@gmail.com,4745171236,Ahmedabad,Gujarat,Government Employee,Priority,Completed,Low,2022-11-15
+CUST000063,Rudra,Atwal,Male,1973-12-10,rudra.atwal922@gmail.com,4965137098,New Delhi,Delhi,Civil Engineer,Retail,Completed,Low,2022-02-16
+CUST000064,Azad,Shetty,Male,2004-04-02,azad.shetty442@gmail.com,1200471138,Hyderabad,Telangana,Doctor,Premium,Completed,Low,2023-01-09
+CUST000065,Qasim,Zachariah,Male,1981-03-18,qasim.zachariah520@gmail.com,6179640537,Chennai,Tamil Nadu,Business Owner,Retail,Completed,Low,2025-03-23
+CUST000066,Chandran,Pillai,Male,1987-02-07,chandran.pillai431@gmail.com,0643171390,Bengaluru,Karnataka,Student,Premium,Completed,Medium,2026-05-27
+CUST000067,Edhitha,Jha,Female,1964-09-26,edhitha.jha562@gmail.com,9335290422,New Delhi,Delhi,Software Engineer,Retail,Completed,Medium,2025-05-03
+CUST000068,Dayamai,Bal,Female,1967-09-16,dayamai.bal453@gmail.com,9502402681,Jaipur,Rajasthan,Chartered Accountant,Retail,Completed,Medium,2023-04-21
+CUST000069,Pratyush,Varghese,Male,1989-05-31,pratyush.varghese291@gmail.com,9084700766,Mumbai,Maharashtra,Mechanical Engineer,Retail,Completed,Low,2023-10-09
+CUST000070,Balhaar,Buch,Male,1976-08-26,balhaar.buch231@gmail.com,4998569847,Chennai,Tamil Nadu,Lawyer,Retail,Completed,High,2022-04-03
+CUST000071,Chandran,Contractor,Male,2001-08-05,chandran.contractor425@gmail.com,6736576615,Jaipur,Rajasthan,Student,Retail,Completed,Low,2024-10-07
+CUST000072,Ridhi,Dua,Female,1993-10-16,ridhi.dua152@gmail.com,1161528098,Bengaluru,Karnataka,Student,Retail,Completed,Medium,2023-11-19
+CUST000073,Samesh,Pandya,Male,2002-07-28,samesh.pandya225@gmail.com,0494519832,New Delhi,Delhi,Teacher,Priority,Completed,Low,2026-03-21
+CUST000074,Parth,Pillai,Male,1966-11-30,parth.pillai468@gmail.com,6899809402,Mumbai,Maharashtra,Teacher,Priority,Completed,High,2022-11-26
+CUST000075,Pushti,Ahuja,Female,1970-01-15,pushti.ahuja628@gmail.com,1201836675,Jaipur,Rajasthan,Retired,Priority,Completed,Medium,2022-03-24
+CUST000076,Omaja,Chad,Female,2003-01-11,omaja.chad762@gmail.com,1476797643,Pune,Maharashtra,Chartered Accountant,Retail,Completed,Medium,2022-04-16
+CUST000077,Upasna,Choudhry,Female,1974-10-29,upasna.choudhry497@gmail.com,8403690034,Kolkata,West Bengal,Student,Retail,Completed,Low,2024-11-26
+CUST000078,Maanav,Narang,Male,1967-02-25,maanav.narang344@gmail.com,2268388516,Chennai,Tamil Nadu,Government Employee,Priority,Completed,Low,2023-12-31
+CUST000079,Veda,Brahmbhatt,Female,2002-01-11,veda.brahmbhatt724@gmail.com,6416052975,Pune,Maharashtra,Lawyer,Retail,Completed,Low,2024-05-22
+CUST000080,Keya,Sarin,Female,1989-03-10,keya.sarin212@gmail.com,4535218188,Mumbai,Maharashtra,Sales Executive,Retail,Completed,Medium,2024-02-18
+CUST000081,Ethan,Keer,Male,1966-05-06,ethan.keer390@gmail.com,9212779979,Ahmedabad,Gujarat,Chartered Accountant,Retail,Completed,Medium,2022-10-16
+CUST000082,Forum,Sarraf,Female,1964-09-21,forum.sarraf766@gmail.com,4905814770,Kolkata,West Bengal,Retired,Retail,Completed,Low,2023-09-21
+CUST000083,Balvan,Chana,Male,1990-06-02,balvan.chana447@gmail.com,9807935978,Chennai,Tamil Nadu,Chartered Accountant,Retail,Completed,Low,2024-01-18
+CUST000084,Dalaja,Oza,Female,2007-09-07,dalaja.oza861@gmail.com,0377889255,Pune,Maharashtra,Chartered Accountant,Premium,Pending,Low,2021-12-07
+CUST000085,Pallavi,Ben,Female,1998-08-09,pallavi.ben578@gmail.com,5186449251,Ahmedabad,Gujarat,Student,Retail,Completed,Low,2024-09-30
+CUST000086,Nilima,Ramanathan,Female,1967-07-29,nilima.ramanathan52@gmail.com,4865281685,Pune,Maharashtra,Business Owner,Retail,Completed,Low,2025-01-21
+CUST000087,Hemangini,Kala,Female,1977-07-29,hemangini.kala771@gmail.com,3221418880,Chennai,Tamil Nadu,Sales Executive,Retail,Completed,Low,2025-05-05
+CUST000088,Raghav,Dube,Male,1969-02-20,raghav.dube230@gmail.com,7065379473,Hyderabad,Telangana,Student,Retail,Pending,Low,2025-09-01
+CUST000089,Wahab,Hari,Male,1978-10-20,wahab.hari205@gmail.com,7468862392,Bengaluru,Karnataka,Software Engineer,Retail,Completed,Low,2026-04-01
+CUST000090,Quincy,Chauhan,Male,1994-12-12,quincy.chauhan971@gmail.com,4124782613,Ahmedabad,Gujarat,Lawyer,Retail,Completed,Low,2024-02-03
+CUST000091,Sarthak,Bera,Male,1980-02-23,sarthak.bera988@gmail.com,1530515220,Pune,Maharashtra,Business Owner,Retail,Completed,Low,2023-05-20
+CUST000092,Vrinda,Sen,Female,1990-06-08,vrinda.sen965@gmail.com,4328986143,New Delhi,Delhi,Retired,Retail,Completed,Medium,2026-01-16
+CUST000093,Jagdish,Saini,Male,1991-07-18,jagdish.saini714@gmail.com,1798089324,Mumbai,Maharashtra,Business Owner,Priority,Completed,Low,2024-08-16
+CUST000094,Patrick,Khosla,Male,1988-05-02,patrick.khosla546@gmail.com,8518888806,Hyderabad,Telangana,Sales Executive,Retail,Completed,Low,2022-06-13
+CUST000095,Rachit,Kulkarni,Male,1996-08-20,rachit.kulkarni843@gmail.com,5319520585,New Delhi,Delhi,Chartered Accountant,Retail,Pending,Low,2023-04-19
+CUST000096,Hemani,Deshmukh,Female,1964-06-24,hemani.deshmukh446@gmail.com,0430305486,Pune,Maharashtra,Teacher,Priority,Pending,Low,2025-05-24
+CUST000097,Anita,Halder,Female,1974-12-17,anita.halder447@gmail.com,5415667652,Jaipur,Rajasthan,Retired,Retail,Completed,Low,2025-10-28
+CUST000098,Kiaan,Butala,Male,1995-09-08,kiaan.butala903@gmail.com,8451154479,Chennai,Tamil Nadu,Chartered Accountant,Retail,Completed,Low,2021-11-27
+CUST000099,Pushti,Sekhon,Female,1963-07-04,pushti.sekhon30@gmail.com,9640165820,Hyderabad,Telangana,Chartered Accountant,Priority,Completed,Low,2025-11-11
+CUST000100,Anika,Date,Female,1964-09-03,anika.date287@gmail.com,5690927557,Hyderabad,Telangana,Civil Engineer,Priority,Completed,Low,2025-05-28
+CUST000101,Qadim,Rao,Male,1976-04-15,qadim.rao248@gmail.com,0278681447,Mumbai,Maharashtra,Retired,Retail,Completed,Low,2022-11-27
+CUST000102,Xalak,Iyengar,Female,1967-04-12,xalak.iyengar459@gmail.com,2715518844,Jaipur,Rajasthan,Software Engineer,Retail,Completed,Low,2025-10-11
+CUST000103,Yashoda,Kapur,Female,1967-03-21,yashoda.kapur378@gmail.com,3705895782,Ahmedabad,Gujarat,Chartered Accountant,Retail,Completed,High,2022-07-08
+CUST000104,Nilima,Rao,Female,2008-06-29,nilima.rao720@gmail.com,6912517785,Hyderabad,Telangana,Chartered Accountant,Retail,Completed,Low,2025-02-08
+CUST000105,Gavin,Dayal,Male,1981-11-05,gavin.dayal123@gmail.com,1824225358,Hyderabad,Telangana,Retired,Retail,Completed,Low,2026-01-24
+CUST000106,Guneet,Maharaj,Male,1967-05-25,guneet.maharaj284@gmail.com,8299229959,Jaipur,Rajasthan,Retired,Retail,Completed,Low,2023-01-10
+CUST000107,Arin,Lanka,Male,1992-02-12,arin.lanka304@gmail.com,9078447364,Bengaluru,Karnataka,Lawyer,Retail,Completed,Low,2025-05-07
+CUST000108,Farhan,Sarraf,Male,1981-01-17,farhan.sarraf47@gmail.com,9255562588,Chennai,Tamil Nadu,Software Engineer,Retail,Completed,Low,2023-11-01
+CUST000109,Vidhi,Das,Female,1974-01-31,vidhi.das894@gmail.com,0469632595,Mumbai,Maharashtra,Software Engineer,Retail,Completed,Low,2022-10-01
+CUST000110,Vivaan,Tara,Male,2002-10-30,vivaan.tara259@gmail.com,6873395004,Mumbai,Maharashtra,Chartered Accountant,Retail,Completed,Low,2023-12-31
+CUST000111,Luke,Yadav,Male,1961-11-24,luke.yadav153@gmail.com,4565060983,Pune,Maharashtra,Civil Engineer,Premium,Completed,Low,2022-01-18
+CUST000112,Bina,Raju,Female,1985-03-19,bina.raju611@gmail.com,9912165585,Ahmedabad,Gujarat,Civil Engineer,Retail,Completed,Low,2025-05-02
+CUST000113,Yashoda,Ratti,Female,1985-01-06,yashoda.ratti881@gmail.com,5787298259,Chennai,Tamil Nadu,Civil Engineer,Premium,Completed,Low,2021-09-26
+CUST000114,Mason,Nayar,Male,1985-05-10,mason.nayar641@gmail.com,9470551694,Bengaluru,Karnataka,Lawyer,Retail,Completed,Low,2024-01-23
+CUST000115,Kevin,Kari,Male,1995-06-02,kevin.kari3@gmail.com,8962309130,Pune,Maharashtra,Sales Executive,Retail,Completed,Low,2024-06-06
+CUST000116,Faqid,Sachar,Male,1993-12-19,faqid.sachar724@gmail.com,0283857865,Chennai,Tamil Nadu,Business Owner,Priority,Completed,Low,2023-07-25
+CUST000117,Pavani,Pandya,Female,1993-04-11,pavani.pandya678@gmail.com,9733484344,Ahmedabad,Gujarat,Lawyer,Retail,Completed,Low,2025-11-07
+CUST000118,Wakeeta,Palla,Female,1987-11-09,wakeeta.palla74@gmail.com,4198665240,Pune,Maharashtra,Software Engineer,Retail,Completed,Low,2026-03-09
+CUST000119,Vaishnavi,Kunda,Female,1996-08-20,vaishnavi.kunda128@gmail.com,8421993308,Jaipur,Rajasthan,Chartered Accountant,Retail,Completed,Medium,2022-07-31
+CUST000120,Daksha,Sachdev,Female,1977-01-13,daksha.sachdev83@gmail.com,0826773454,Jaipur,Rajasthan,Civil Engineer,Retail,Completed,Low,2023-11-16
+CUST000121,Kala,Warrior,Female,1996-03-25,kala.warrior94@gmail.com,2620672400,Mumbai,Maharashtra,Lawyer,Premium,Completed,Low,2025-10-06
+CUST000122,Chatresh,Nayak,Male,1974-11-20,chatresh.nayak591@gmail.com,2874315274,Chennai,Tamil Nadu,Software Engineer,Priority,Completed,Low,2026-06-17
+CUST000123,Neelima,Hans,Female,1969-10-05,neelima.hans186@gmail.com,6851612275,Chennai,Tamil Nadu,Civil Engineer,Retail,Completed,High,2025-10-17
+CUST000124,Sanaya,Keer,Female,1982-07-05,sanaya.keer419@gmail.com,4990453017,Hyderabad,Telangana,Government Employee,Retail,Completed,Low,2022-11-05
+CUST000125,Yashasvi,Mukhopadhyay,Female,1993-12-15,yashasvi.mukhopadhyay296@gmail.com,5933272795,Jaipur,Rajasthan,Student,Premium,Completed,Low,2024-09-14
+CUST000126,Janani,Kota,Female,1993-06-27,janani.kota323@gmail.com,8785191088,Mumbai,Maharashtra,Business Owner,Retail,Pending,Low,2024-06-28
+CUST000127,Falan,Gala,Male,1976-12-07,falan.gala474@gmail.com,3971870728,Kolkata,West Bengal,Sales Executive,Retail,Completed,Low,2024-02-11
+CUST000128,Barkha,Shere,Female,1993-02-17,barkha.shere779@gmail.com,6403910651,Jaipur,Rajasthan,Software Engineer,Retail,Completed,Medium,2023-01-20
+CUST000129,Vrishti,Balay,Female,1975-01-03,vrishti.balay125@gmail.com,6567661825,Jaipur,Rajasthan,Software Engineer,Premium,Completed,Low,2022-05-30
+CUST000130,Ronith,Wadhwa,Male,1967-07-02,ronith.wadhwa565@gmail.com,0478686337,Chennai,Tamil Nadu,Software Engineer,Retail,Completed,High,2026-05-29
+CUST000131,Girindra,Chowdhury,Male,1963-01-11,girindra.chowdhury970@gmail.com,3311907903,Jaipur,Rajasthan,Doctor,Retail,Completed,Medium,2024-10-24
+CUST000132,Kamala,Zacharia,Female,1971-09-22,kamala.zacharia723@gmail.com,2843959953,Kolkata,West Bengal,Business Owner,Retail,Completed,Low,2025-10-31
+CUST000133,Janya,Sachdev,Female,1975-08-21,janya.sachdev149@gmail.com,6870568566,Kolkata,West Bengal,Sales Executive,Retail,Completed,Low,2021-10-25
+CUST000134,George,Yogi,Male,1983-10-08,george.yogi283@gmail.com,2708668826,Mumbai,Maharashtra,Sales Executive,Retail,Completed,Low,2025-10-04
+CUST000135,Noah,Brar,Male,2004-11-08,noah.brar744@gmail.com,8304699013,Chennai,Tamil Nadu,Business Owner,Priority,Completed,Low,2025-09-30
+CUST000136,Wriddhish,Joshi,Male,2002-05-18,wriddhish.joshi552@gmail.com,3317393638,Jaipur,Rajasthan,Chartered Accountant,Retail,Completed,Low,2023-03-06
+CUST000137,Vidhi,Walla,Female,1992-01-01,vidhi.walla891@gmail.com,8771753556,Hyderabad,Telangana,Lawyer,Premium,Completed,Low,2023-01-20
+CUST000138,Eta,Babu,Female,1973-10-08,eta.babu326@gmail.com,4235369378,Mumbai,Maharashtra,Retired,Retail,Completed,Low,2026-03-09
+CUST000139,Yatan,Sharma,Male,1969-06-02,yatan.sharma988@gmail.com,2872808010,Jaipur,Rajasthan,Software Engineer,Retail,Pending,Low,2025-06-27
+CUST000140,Jack,Bir,Male,1994-10-01,jack.bir103@gmail.com,5099770088,Jaipur,Rajasthan,Mechanical Engineer,Premium,Completed,Low,2021-07-22
+CUST000141,Laksh,Wason,Male,2007-06-15,laksh.wason481@gmail.com,2118233984,Mumbai,Maharashtra,Business Owner,Retail,Completed,Low,2021-08-06
+CUST000142,Chaaya,Prakash,Female,2006-08-07,chaaya.prakash390@gmail.com,3410166687,Kolkata,West Bengal,Government Employee,Retail,Completed,Low,2023-10-22
+CUST000143,Benjamin,Tata,Male,2001-03-29,benjamin.tata71@gmail.com,9180339740,Ahmedabad,Gujarat,Lawyer,Retail,Completed,High,2024-09-26
+CUST000144,Amol,Gola,Male,2005-03-01,amol.gola101@gmail.com,9261429396,New Delhi,Delhi,Student,Priority,Completed,Low,2023-01-31
+CUST000145,Ekiya,Brar,Female,1985-01-18,ekiya.brar48@gmail.com,1631599965,Mumbai,Maharashtra,Government Employee,Priority,Completed,Low,2026-05-21
+CUST000146,Yatan,Kari,Male,1978-03-27,yatan.kari544@gmail.com,2961943114,Bengaluru,Karnataka,Sales Executive,Retail,Completed,Low,2026-03-21
+CUST000147,Robert,Nadig,Male,1978-06-19,robert.nadig892@gmail.com,7541212678,Ahmedabad,Gujarat,Sales Executive,Retail,Completed,Medium,2021-12-20
+CUST000148,Charan,Bal,Male,1965-09-22,charan.bal473@gmail.com,6046618398,Bengaluru,Karnataka,Student,Retail,Completed,Low,2024-04-13
+CUST000149,Ekiya,Luthra,Female,1975-09-01,ekiya.luthra694@gmail.com,2646471543,Chennai,Tamil Nadu,Mechanical Engineer,Retail,Completed,Low,2023-12-23
+CUST000150,Indira,Shankar,Female,1966-07-17,indira.shankar707@gmail.com,5965756924,New Delhi,Delhi,Business Owner,Retail,Completed,High,2023-01-13
+CUST000151,Wakeeta,Murthy,Female,1969-11-11,wakeeta.murthy243@gmail.com,4793564651,Mumbai,Maharashtra,Sales Executive,Retail,Completed,High,2023-07-03
+CUST000152,Hemangini,Bala,Female,2006-04-21,hemangini.bala850@gmail.com,7416724342,Mumbai,Maharashtra,Student,Retail,Completed,Medium,2023-10-27
+CUST000153,Udarsh,Srinivas,Male,1988-11-16,udarsh.srinivas764@gmail.com,8058911352,Ahmedabad,Gujarat,Chartered Accountant,Priority,Completed,Medium,2024-03-08
+CUST000154,Ryan,Narula,Male,2006-11-25,ryan.narula822@gmail.com,1438889937,Ahmedabad,Gujarat,Government Employee,Retail,Completed,Low,2023-08-31
+CUST000155,Zashil,Dora,Male,1977-09-22,zashil.dora926@gmail.com,4611254573,Mumbai,Maharashtra,Student,Retail,Completed,Low,2021-08-19
+CUST000156,Vyanjana,Chatterjee,Female,1982-02-08,vyanjana.chatterjee93@gmail.com,1401051238,Pune,Maharashtra,Business Owner,Retail,Completed,Low,2024-12-29
+CUST000157,Oni,Sandhu,Female,2006-07-23,oni.sandhu514@gmail.com,2266093796,Kolkata,West Bengal,Business Owner,Priority,Completed,Medium,2022-09-02
+CUST000158,Ishanvi,Mallick,Female,1996-11-14,ishanvi.mallick765@gmail.com,9182553714,Chennai,Tamil Nadu,Government Employee,Priority,Completed,Low,2025-07-22
+CUST000159,Rishi,Ramanathan,Male,1989-02-06,rishi.ramanathan991@gmail.com,9249912513,New Delhi,Delhi,Mechanical Engineer,Retail,Completed,Low,2023-04-02
+CUST000160,Rachit,Dhaliwal,Male,1985-07-09,rachit.dhaliwal378@gmail.com,9662782827,Jaipur,Rajasthan,Student,Priority,Completed,Low,2023-08-09
+CUST000161,Nisha,Seshadri,Female,1990-08-16,nisha.seshadri692@gmail.com,7236887676,Mumbai,Maharashtra,Lawyer,Retail,Completed,Medium,2025-11-03
+CUST000162,Chakrika,Balasubramanian,Female,1998-12-02,chakrika.balasubramanian227@gmail.com,4384279788,Ahmedabad,Gujarat,Student,Retail,Completed,Medium,2022-08-12
+CUST000163,Lipika,Peri,Female,1986-12-27,lipika.peri120@gmail.com,8361340745,New Delhi,Delhi,Teacher,Retail,Completed,High,2025-04-18
+CUST000164,Jagat,Kadakia,Male,1999-08-13,jagat.kadakia241@gmail.com,9629233095,Mumbai,Maharashtra,Mechanical Engineer,Retail,Completed,Low,2024-06-14
+CUST000165,Hamsini,Naik,Female,2007-07-11,hamsini.naik761@gmail.com,8126042232,Ahmedabad,Gujarat,Retired,Retail,Completed,Low,2022-12-22
+CUST000166,Wishi,Dhar,Female,1988-08-26,wishi.dhar418@gmail.com,6711684577,Ahmedabad,Gujarat,Business Owner,Retail,Completed,Low,2022-11-08
+CUST000167,Chakradhar,Shanker,Male,1991-05-08,chakradhar.shanker102@gmail.com,8636374545,Hyderabad,Telangana,Student,Retail,Completed,Low,2024-12-30
+CUST000168,Xavier,Oza,Male,2003-07-16,xavier.oza283@gmail.com,1701277063,New Delhi,Delhi,Lawyer,Premium,Completed,Medium,2025-04-28
+CUST000169,Laksh,Chander,Male,1992-04-11,laksh.chander658@gmail.com,2064361103,Bengaluru,Karnataka,Student,Retail,Completed,Medium,2022-10-06
+CUST000170,Isaiah,Venkataraman,Male,1993-06-21,isaiah.venkataraman806@gmail.com,1627136111,Pune,Maharashtra,Civil Engineer,Retail,Completed,Low,2021-07-22
+CUST000171,Ekapad,Raja,Male,1997-11-12,ekapad.raja337@gmail.com,2189092753,Bengaluru,Karnataka,Teacher,Priority,Completed,Low,2025-04-12
+CUST000172,Timothy,Kalla,Male,1965-08-03,timothy.kalla554@gmail.com,9656523413,Pune,Maharashtra,Business Owner,Priority,Completed,Medium,2022-01-05
+CUST000173,Lucky,Bala,Male,2001-05-12,lucky.bala367@gmail.com,3898364037,Mumbai,Maharashtra,Lawyer,Retail,Completed,Low,2024-10-20
+CUST000174,Zaid,Bobal,Male,1986-05-05,zaid.bobal539@gmail.com,5269658271,New Delhi,Delhi,Doctor,Priority,Completed,Medium,2026-05-27
+CUST000175,Abhimanyu,Lala,Male,1971-08-27,abhimanyu.lala516@gmail.com,8486661889,Jaipur,Rajasthan,Lawyer,Premium,Completed,Medium,2026-02-15
+CUST000176,Nilima,Brar,Female,1985-07-18,nilima.brar659@gmail.com,8569146303,Jaipur,Rajasthan,Software Engineer,Retail,Completed,Low,2022-07-12
+CUST000177,Utkarsh,Bhakta,Male,1976-01-19,utkarsh.bhakta730@gmail.com,1020275884,Jaipur,Rajasthan,Chartered Accountant,Retail,Completed,Low,2025-03-22
+CUST000178,Krish,Dalal,Male,1997-10-08,krish.dalal282@gmail.com,4814917785,Pune,Maharashtra,Civil Engineer,Retail,Completed,Low,2021-08-28
+CUST000179,Geetika,Pillai,Female,1968-11-27,geetika.pillai518@gmail.com,3800030756,Jaipur,Rajasthan,Civil Engineer,Retail,Completed,Low,2025-05-18
+CUST000180,Shaurya,Kapur,Male,1976-08-21,shaurya.kapur463@gmail.com,4195180238,New Delhi,Delhi,Lawyer,Retail,Completed,Low,2023-08-05
+CUST000181,Viraj,Mandal,Male,1997-11-13,viraj.mandal438@gmail.com,8705349493,Hyderabad,Telangana,Government Employee,Retail,Completed,Low,2023-01-24
+CUST000182,Xiti,Hayre,Female,1995-12-09,xiti.hayre94@gmail.com,2060385050,Mumbai,Maharashtra,Doctor,Retail,Completed,Low,2024-03-30
+CUST000183,Harshil,Wagle,Male,2007-09-20,harshil.wagle62@gmail.com,2410386571,Kolkata,West Bengal,Civil Engineer,Premium,Completed,Low,2023-08-12
+CUST000184,Ekani,Ramesh,Female,1965-01-11,ekani.ramesh895@gmail.com,2344565574,Hyderabad,Telangana,Student,Premium,Completed,Medium,2024-05-08
+CUST000185,Ekansh,Chopra,Male,1968-10-25,ekansh.chopra615@gmail.com,5618537474,Chennai,Tamil Nadu,Business Owner,Retail,Completed,Low,2022-05-02
+CUST000186,Nidra,Baria,Female,1971-08-15,nidra.baria868@gmail.com,1356804420,Bengaluru,Karnataka,Doctor,Retail,Completed,Low,2025-10-17
+CUST000187,Kritika,Chandra,Female,1983-03-25,kritika.chandra232@gmail.com,1003236519,Ahmedabad,Gujarat,Sales Executive,Priority,Pending,Medium,2025-07-13
+CUST000188,Advay,Bhattacharyya,Male,1970-10-22,advay.bhattacharyya952@gmail.com,1510702966,Ahmedabad,Gujarat,Student,Priority,Completed,Low,2024-09-28
+CUST000189,Unni,Gera,Female,1978-02-23,unni.gera360@gmail.com,4720999347,Hyderabad,Telangana,Software Engineer,Retail,Completed,Low,2026-01-20
+CUST000190,Azaan,Chahal,Male,1974-08-30,azaan.chahal759@gmail.com,8380657875,Pune,Maharashtra,Student,Premium,Completed,Low,2022-03-13
+CUST000191,Sara,Madan,Female,1969-12-18,sara.madan465@gmail.com,0407859321,New Delhi,Delhi,Government Employee,Retail,Completed,Low,2023-02-08
+CUST000192,Ayaan,Kanda,Male,1988-07-27,ayaan.kanda160@gmail.com,5223955905,Mumbai,Maharashtra,Teacher,Priority,Completed,Low,2026-06-05
+CUST000193,Ijaya,Tailor,Female,1986-12-29,ijaya.tailor498@gmail.com,1039308705,New Delhi,Delhi,Civil Engineer,Retail,Completed,Medium,2022-05-22
+CUST000194,Onkar,Goel,Male,2004-09-10,onkar.goel441@gmail.com,0029218515,Hyderabad,Telangana,Doctor,Retail,Completed,Low,2025-09-25
+CUST000195,Pahal,Mittal,Female,1976-09-03,pahal.mittal226@gmail.com,7528953926,Mumbai,Maharashtra,Sales Executive,Premium,Completed,Low,2026-05-23
+CUST000196,Gaurang,Agarwal,Male,2006-02-07,gaurang.agarwal783@gmail.com,9029593917,Pune,Maharashtra,Business Owner,Retail,Completed,Low,2026-04-04
+CUST000197,Kashish,Palan,Female,2007-09-07,kashish.palan133@gmail.com,5704331541,Pune,Maharashtra,Sales Executive,Retail,Completed,Low,2022-05-08
+CUST000198,Urvashi,Saini,Female,2007-01-22,urvashi.saini407@gmail.com,6586179327,Mumbai,Maharashtra,Retired,Retail,Completed,Medium,2025-12-08
+CUST000199,Aishani,Nagar,Female,1973-10-14,aishani.nagar440@gmail.com,2621815997,Ahmedabad,Gujarat,Civil Engineer,Retail,Completed,Low,2022-01-13
+CUST000200,Urishilla,Dugar,Female,1964-01-12,urishilla.dugar990@gmail.com,6884443106,Mumbai,Maharashtra,Government Employee,Retail,Completed,Low,2023-03-02
+CUST000201,Ganga,Bhagat,Female,1978-06-21,ganga.bhagat448@gmail.com,9731032417,Mumbai,Maharashtra,Doctor,Retail,Completed,Low,2023-08-26
+CUST000202,Vrishti,Suresh,Female,2003-07-28,vrishti.suresh764@gmail.com,2565270477,Chennai,Tamil Nadu,Government Employee,Retail,Completed,Low,2022-11-02
+CUST000203,Azaan,Dora,Male,1996-11-12,azaan.dora523@gmail.com,5869380686,Kolkata,West Bengal,Lawyer,Premium,Completed,Low,2024-11-06
+CUST000204,Jacob,Soni,Male,1975-07-24,jacob.soni106@gmail.com,8989921722,Bengaluru,Karnataka,Teacher,Retail,Completed,Low,2023-06-27
+CUST000205,Ansh,Sampath,Male,1965-03-13,ansh.sampath975@gmail.com,2945116868,Pune,Maharashtra,Student,Retail,Completed,Medium,2024-12-05
+CUST000206,Vasudha,Arora,Female,1998-06-24,vasudha.arora659@gmail.com,1622999119,Ahmedabad,Gujarat,Student,Premium,Completed,High,2024-08-17
+CUST000207,Pooja,Roy,Female,1973-12-05,pooja.roy451@gmail.com,0246299606,Pune,Maharashtra,Doctor,Retail,Completed,Medium,2024-10-14
+CUST000208,Wazir,Luthra,Male,2003-09-03,wazir.luthra520@gmail.com,4471324754,Hyderabad,Telangana,Doctor,Retail,Completed,Low,2021-08-11
+CUST000209,Ijaya,Sathe,Female,1971-06-13,ijaya.sathe661@gmail.com,8508214862,Mumbai,Maharashtra,Doctor,Retail,Completed,Low,2025-08-19
+CUST000210,Gabriel,Hans,Male,2002-08-24,gabriel.hans931@gmail.com,3070534578,Jaipur,Rajasthan,Civil Engineer,Retail,Completed,Low,2022-07-07
+CUST000211,Jai,Pradhan,Male,1984-06-26,jai.pradhan462@gmail.com,9855241406,Mumbai,Maharashtra,Doctor,Priority,Completed,High,2023-09-29
+CUST000212,Hredhaan,Kant,Male,1991-12-09,hredhaan.kant662@gmail.com,6800722903,Kolkata,West Bengal,Teacher,Retail,Completed,High,2024-11-25
+CUST000213,Laksh,Sampath,Male,2003-08-07,laksh.sampath382@gmail.com,4374896910,Hyderabad,Telangana,Business Owner,Retail,Completed,Low,2025-10-08
+CUST000214,Lohit,Misra,Male,1993-09-05,lohit.misra68@gmail.com,4544432830,Hyderabad,Telangana,Government Employee,Retail,Completed,Low,2023-12-03
+CUST000215,Ekaraj,Bal,Male,1992-04-25,ekaraj.bal84@gmail.com,6660993538,Hyderabad,Telangana,Civil Engineer,Retail,Completed,Low,2026-07-02
+CUST000216,Netra,Garde,Female,2001-01-08,netra.garde610@gmail.com,4172482513,Pune,Maharashtra,Retired,Premium,Completed,Low,2025-11-23
+CUST000217,Ucchal,Narula,Female,1978-12-25,ucchal.narula687@gmail.com,1709991738,Pune,Maharashtra,Retired,Priority,Completed,Low,2024-06-09
+CUST000218,Manthan,Sachdev,Male,1964-01-21,manthan.sachdev521@gmail.com,3569725217,New Delhi,Delhi,Government Employee,Retail,Completed,High,2025-10-13
+CUST000219,Barkha,Agrawal,Female,1982-10-04,barkha.agrawal197@gmail.com,9271296666,Jaipur,Rajasthan,Lawyer,Premium,Completed,Low,2022-07-23
+CUST000220,Anirudh,Walla,Male,1970-11-20,anirudh.walla790@gmail.com,5830033542,Kolkata,West Bengal,Mechanical Engineer,Priority,Completed,Low,2023-05-18
+CUST000221,Niharika,Ganesh,Female,1964-07-31,niharika.ganesh135@gmail.com,7898562575,Ahmedabad,Gujarat,Civil Engineer,Retail,Completed,Medium,2021-09-27
+CUST000222,Aditya,Kari,Male,1972-01-21,aditya.kari45@gmail.com,0982150648,Jaipur,Rajasthan,Sales Executive,Retail,Completed,High,2026-06-09
+CUST000223,Arunima,Chokshi,Female,1992-03-25,arunima.chokshi240@gmail.com,6761847230,Jaipur,Rajasthan,Mechanical Engineer,Retail,Pending,Medium,2021-08-11
+CUST000224,Krishna,Devan,Male,1981-03-13,krishna.devan695@gmail.com,4117393483,Hyderabad,Telangana,Civil Engineer,Premium,Completed,Low,2026-01-02
+CUST000225,Gaurika,Baral,Female,1987-04-11,gaurika.baral541@gmail.com,5300119721,Kolkata,West Bengal,Sales Executive,Premium,Completed,Medium,2026-01-24
+CUST000226,Kabir,Kashyap,Male,1982-12-24,kabir.kashyap54@gmail.com,7012045561,Chennai,Tamil Nadu,Student,Retail,Completed,Medium,2026-05-26
+CUST000227,Ekapad,Garde,Male,1976-12-16,ekapad.garde86@gmail.com,1552166746,Chennai,Tamil Nadu,Teacher,Retail,Completed,Low,2025-12-26
+CUST000228,Dayita,Deo,Female,1994-03-26,dayita.deo970@gmail.com,1697972965,Mumbai,Maharashtra,Lawyer,Priority,Completed,Medium,2021-10-21
+CUST000229,Warhi,Sura,Female,1966-10-27,warhi.sura406@gmail.com,1450899358,Mumbai,Maharashtra,Mechanical Engineer,Retail,Completed,Low,2023-07-27
+CUST000230,Tarak,Kothari,Male,1984-02-29,tarak.kothari327@gmail.com,2890028772,Mumbai,Maharashtra,Doctor,Priority,Completed,Medium,2024-10-30
+CUST000231,Jai,Narayanan,Male,2007-02-09,jai.narayanan294@gmail.com,8663177971,Mumbai,Maharashtra,Chartered Accountant,Retail,Completed,Low,2021-10-05
+CUST000232,Dhriti,Tank,Female,1996-07-15,dhriti.tank6@gmail.com,6088019948,Ahmedabad,Gujarat,Doctor,Retail,Completed,Low,2021-08-07
+CUST000233,Panini,Patla,Female,2000-04-20,panini.patla795@gmail.com,5899757113,Mumbai,Maharashtra,Business Owner,Retail,Completed,Low,2025-08-05
+CUST000234,Mugdha,Vig,Female,1979-02-01,mugdha.vig114@gmail.com,7261493316,Mumbai,Maharashtra,Chartered Accountant,Retail,Completed,Low,2022-01-16
+CUST000235,Omkaar,Chokshi,Male,1997-02-05,omkaar.chokshi299@gmail.com,7798270808,Pune,Maharashtra,Sales Executive,Retail,Completed,Low,2021-09-28
+CUST000236,Gaurang,Ghose,Male,1995-11-05,gaurang.ghose537@gmail.com,9958669346,Mumbai,Maharashtra,Government Employee,Retail,Completed,Low,2022-02-25
+CUST000237,Ekalinga,Devi,Male,1980-11-29,ekalinga.devi895@gmail.com,8583339452,New Delhi,Delhi,Chartered Accountant,Retail,Completed,Low,2025-01-04
+CUST000238,Neel,D’Alia,Male,1997-04-08,neel.d’alia808@gmail.com,8460810620,Hyderabad,Telangana,Doctor,Retail,Completed,Low,2024-04-28
+CUST000239,Gaurika,Mangat,Female,1993-08-19,gaurika.mangat46@gmail.com,4380571983,Pune,Maharashtra,Government Employee,Retail,Completed,Low,2022-03-30
+CUST000240,Yashodhara,Mani,Female,1994-01-29,yashodhara.mani647@gmail.com,6658004397,Jaipur,Rajasthan,Teacher,Priority,Completed,Medium,2021-09-29
+CUST000241,Indira,Hari,Female,1975-05-04,indira.hari301@gmail.com,2281606484,Mumbai,Maharashtra,Lawyer,Retail,Completed,Low,2022-05-26
+CUST000242,Lakshmi,Ahluwalia,Female,1977-01-18,lakshmi.ahluwalia408@gmail.com,0259094798,Kolkata,West Bengal,Mechanical Engineer,Retail,Completed,Low,2025-01-22
+CUST000243,Zansi,Kannan,Female,2006-06-28,zansi.kannan883@gmail.com,6886153355,Hyderabad,Telangana,Software Engineer,Priority,Completed,Low,2024-02-12
+CUST000244,Zilmil,Soman,Female,2008-05-09,zilmil.soman911@gmail.com,1573993056,New Delhi,Delhi,Sales Executive,Priority,Completed,Low,2025-08-18
+CUST000245,Lohit,Bakshi,Male,2004-05-05,lohit.bakshi709@gmail.com,8877043581,Jaipur,Rajasthan,Chartered Accountant,Retail,Completed,Low,2025-08-15
+CUST000246,Aarush,Bhatti,Male,1971-06-03,aarush.bhatti81@gmail.com,6138612075,New Delhi,Delhi,Sales Executive,Retail,Completed,Low,2024-08-29
+CUST000247,Avni,Gokhale,Female,1998-11-03,avni.gokhale82@gmail.com,4667665061,Mumbai,Maharashtra,Government Employee,Retail,Completed,Low,2024-04-20
+CUST000248,Bhavika,Bath,Female,1994-06-15,bhavika.bath707@gmail.com,4491476607,Pune,Maharashtra,Chartered Accountant,Retail,Completed,Medium,2021-11-15
+CUST000249,Ekanta,Raman,Female,1998-12-17,ekanta.raman446@gmail.com,2450882100,Ahmedabad,Gujarat,Business Owner,Retail,Completed,Low,2025-10-04
+CUST000250,Chaman,Mody,Female,1971-05-21,chaman.mody526@gmail.com,3682223943,Hyderabad,Telangana,Retired,Retail,Pending,Low,2025-03-21
+CUST000251,Avni,Shenoy,Female,1991-10-24,avni.shenoy130@gmail.com,4139755231,Mumbai,Maharashtra,Doctor,Retail,Completed,Low,2021-11-16
+CUST000252,Gunbir,Nadkarni,Male,1984-05-07,gunbir.nadkarni158@gmail.com,9299556205,Ahmedabad,Gujarat,Student,Retail,Completed,Low,2023-02-25
+CUST000253,Lakshit,Parsa,Male,1967-10-29,lakshit.parsa141@gmail.com,7754781291,Ahmedabad,Gujarat,Mechanical Engineer,Retail,Completed,Low,2025-03-06
+CUST000254,Guneet,Lall,Male,1995-12-28,guneet.lall754@gmail.com,0809969308,Mumbai,Maharashtra,Teacher,Retail,Completed,Low,2024-08-23
+CUST000255,Vrishti,Dixit,Female,1978-09-15,vrishti.dixit721@gmail.com,2788165803,Chennai,Tamil Nadu,Chartered Accountant,Retail,Completed,Low,2022-08-17
+CUST000256,Ekiya,Sehgal,Female,1968-12-30,ekiya.sehgal126@gmail.com,7503731453,Bengaluru,Karnataka,Teacher,Priority,Completed,Medium,2024-05-05
+CUST000257,Radha,Rama,Female,1983-08-03,radha.rama830@gmail.com,0518449892,Mumbai,Maharashtra,Student,Premium,Pending,Low,2023-10-14
+CUST000258,Balvan,Varughese,Male,1973-05-03,balvan.varughese556@gmail.com,8655779082,Kolkata,West Bengal,Business Owner,Priority,Completed,Low,2026-05-18
+CUST000259,Balvan,Varkey,Male,1991-10-03,balvan.varkey521@gmail.com,2591365177,Hyderabad,Telangana,Lawyer,Retail,Completed,Low,2022-07-27
+CUST000260,Gaurika,Roy,Female,1962-07-27,gaurika.roy370@gmail.com,2809202428,Mumbai,Maharashtra,Mechanical Engineer,Retail,Completed,High,2021-09-22
+CUST000261,Aditya,Mander,Male,2006-01-12,aditya.mander906@gmail.com,7236929298,Ahmedabad,Gujarat,Doctor,Retail,Completed,Low,2022-08-05
+CUST000262,Vasana,Biswas,Female,1972-04-24,vasana.biswas421@gmail.com,0388629127,Kolkata,West Bengal,Sales Executive,Priority,Completed,High,2023-06-10
+CUST000263,Zayan,Dalal,Male,1965-11-22,zayan.dalal478@gmail.com,6865086376,Jaipur,Rajasthan,Student,Retail,Completed,Medium,2024-10-22
+CUST000264,Chandran,Sandal,Male,1967-10-22,chandran.sandal444@gmail.com,1498643009,Pune,Maharashtra,Mechanical Engineer,Premium,Completed,Low,2023-11-24
+CUST000265,Aarush,Prashad,Male,1992-04-10,aarush.prashad169@gmail.com,6512694486,Chennai,Tamil Nadu,Teacher,Retail,Completed,Low,2024-12-13
+CUST000266,Manya,Ranganathan,Female,1996-12-29,manya.ranganathan257@gmail.com,2588744956,Mumbai,Maharashtra,Lawyer,Retail,Completed,Low,2023-07-30
+CUST000267,Vansha,Edwin,Female,1966-03-24,vansha.edwin547@gmail.com,8902601279,Ahmedabad,Gujarat,Doctor,Retail,Completed,Medium,2024-01-20
+CUST000268,Karan,Kapadia,Male,1978-12-10,karan.kapadia675@gmail.com,6984902770,Pune,Maharashtra,Civil Engineer,Priority,Completed,Medium,2024-07-22
+CUST000269,Gunbir,Bandi,Male,1998-05-11,gunbir.bandi84@gmail.com,9205302146,Mumbai,Maharashtra,Software Engineer,Premium,Completed,Low,2024-01-24
+CUST000270,Harish,Vasa,Male,1962-03-27,harish.vasa427@gmail.com,8489554393,Ahmedabad,Gujarat,Civil Engineer,Retail,Completed,Low,2025-01-11
+CUST000271,Aahana,Lal,Female,1969-09-27,aahana.lal495@gmail.com,8451848947,Chennai,Tamil Nadu,Lawyer,Priority,Completed,Low,2024-01-16
+CUST000272,Jairaj,Nori,Male,2006-09-09,jairaj.nori162@gmail.com,9071416335,Mumbai,Maharashtra,Chartered Accountant,Retail,Completed,Low,2023-10-22
+CUST000273,Aayush,Lall,Male,1973-03-07,aayush.lall883@gmail.com,1827553942,Hyderabad,Telangana,Retired,Retail,Pending,Low,2021-12-22
+CUST000274,Kamya,Khurana,Female,2002-07-13,kamya.khurana779@gmail.com,3952111790,Pune,Maharashtra,Government Employee,Retail,Completed,Low,2022-07-18
+CUST000275,Quincy,Murty,Male,1984-08-26,quincy.murty461@gmail.com,7284639208,Chennai,Tamil Nadu,Lawyer,Retail,Completed,Medium,2026-06-10
+CUST000276,Anamika,Thakkar,Female,1977-11-01,anamika.thakkar986@gmail.com,7187500369,Bengaluru,Karnataka,Teacher,Priority,Completed,Low,2025-10-24
+CUST000277,Kai,Grover,Male,1987-04-18,kai.grover511@gmail.com,9552763655,Pune,Maharashtra,Mechanical Engineer,Retail,Completed,Low,2022-09-12
+CUST000278,Gautam,Deep,Male,2007-07-16,gautam.deep518@gmail.com,4386632270,New Delhi,Delhi,Chartered Accountant,Premium,Completed,Low,2024-12-10
+CUST000279,Ekalinga,Varughese,Male,1986-08-11,ekalinga.varughese507@gmail.com,4489061203,Chennai,Tamil Nadu,Civil Engineer,Priority,Completed,Low,2023-02-02
+CUST000280,Umang,Natt,Male,1973-09-21,umang.natt442@gmail.com,5061593998,Mumbai,Maharashtra,Teacher,Priority,Completed,Medium,2023-04-25
+CUST000281,Omaja,Uppal,Female,1984-06-04,omaja.uppal411@gmail.com,6947225699,Mumbai,Maharashtra,Software Engineer,Retail,Completed,Low,2025-03-12
+CUST000282,Faris,Oza,Male,1972-03-28,faris.oza517@gmail.com,4964759876,New Delhi,Delhi,Chartered Accountant,Priority,Completed,High,2023-02-04
+CUST000283,Dev,Keer,Male,1992-08-17,dev.keer999@gmail.com,3261117800,Pune,Maharashtra,Doctor,Retail,Completed,Low,2026-03-20
+CUST000284,Damini,Lala,Female,1990-07-25,damini.lala204@gmail.com,4334722820,Pune,Maharashtra,Civil Engineer,Retail,Completed,Low,2021-12-07
+CUST000285,Wazir,Sibal,Male,2007-05-03,wazir.sibal824@gmail.com,8728299796,Hyderabad,Telangana,Chartered Accountant,Retail,Completed,Medium,2024-03-19
+CUST000286,Oscar,Subramaniam,Male,1986-11-16,oscar.subramaniam954@gmail.com,4564240082,Hyderabad,Telangana,Civil Engineer,Retail,Completed,Low,2025-07-15
+CUST000287,Aarna,Swamy,Female,2006-01-07,aarna.swamy345@gmail.com,6493085368,Ahmedabad,Gujarat,Mechanical Engineer,Priority,Completed,Low,2023-11-24
+CUST000288,Gautami,Ramakrishnan,Female,2000-06-12,gautami.ramakrishnan836@gmail.com,6389448463,Jaipur,Rajasthan,Software Engineer,Retail,Completed,High,2022-08-13
+CUST000289,Mohini,Choudhry,Female,1991-06-12,mohini.choudhry612@gmail.com,9735020802,Mumbai,Maharashtra,Chartered Accountant,Retail,Completed,High,2024-08-07
+CUST000290,Dev,Sarma,Male,1995-09-08,dev.sarma598@gmail.com,0735647570,Mumbai,Maharashtra,Chartered Accountant,Retail,Completed,Low,2022-09-04
+CUST000291,Baghyawati,Lata,Female,1997-12-19,baghyawati.lata842@gmail.com,2346013673,Pune,Maharashtra,Student,Retail,Completed,Low,2021-11-13
+CUST000292,Champak,Verma,Male,1992-10-24,champak.verma452@gmail.com,4520881474,Mumbai,Maharashtra,Government Employee,Retail,Completed,Low,2022-07-21
+CUST000293,Janani,Chowdhury,Female,1972-08-08,janani.chowdhury723@gmail.com,2491630097,Mumbai,Maharashtra,Teacher,Retail,Completed,High,2023-09-07
+CUST000294,Chanchal,Kothari,Female,1968-12-04,chanchal.kothari386@gmail.com,0052812735,Kolkata,West Bengal,Government Employee,Premium,Completed,Low,2021-12-19
+CUST000295,Inaya,Bail,Female,1993-11-27,inaya.bail625@gmail.com,4077848739,Chennai,Tamil Nadu,Chartered Accountant,Retail,Completed,Low,2023-04-21
+CUST000296,Neel,Sidhu,Male,1974-06-15,neel.sidhu790@gmail.com,1827448570,Chennai,Tamil Nadu,Business Owner,Priority,Completed,Low,2025-09-01
+CUST000297,Adya,Patla,Female,1997-12-26,adya.patla574@gmail.com,8638782945,Hyderabad,Telangana,Retired,Retail,Completed,Low,2022-09-15
+CUST000298,Chasmum,Virk,Female,1992-06-24,chasmum.virk839@gmail.com,2031731096,New Delhi,Delhi,Government Employee,Premium,Completed,Low,2021-09-23
+CUST000299,Lavanya,Bawa,Female,1978-09-24,lavanya.bawa355@gmail.com,0371705865,Mumbai,Maharashtra,Chartered Accountant,Retail,Completed,Low,2024-07-17
+CUST000300,Zarna,Baria,Female,1996-01-09,zarna.baria713@gmail.com,3811386338,Kolkata,West Bengal,Business Owner,Retail,Completed,Low,2025-09-07
+CUST000301,Sarthak,Cherian,Male,1997-07-12,sarthak.cherian686@gmail.com,6122868528,Mumbai,Maharashtra,Mechanical Engineer,Retail,Completed,Low,2024-05-24
+CUST000302,Nisha,Nair,Female,2001-03-21,nisha.nair103@gmail.com,5939836845,Jaipur,Rajasthan,Student,Priority,Completed,Low,2023-07-29
+CUST000303,Aadi,Banerjee,Male,2007-09-17,aadi.banerjee669@gmail.com,4043350488,New Delhi,Delhi,Chartered Accountant,Retail,Completed,High,2024-06-28
+CUST000304,Garima,Chandra,Female,1963-04-15,garima.chandra662@gmail.com,4593344196,Chennai,Tamil Nadu,Software Engineer,Premium,Completed,Low,2023-04-16
+CUST000305,Nicholas,Subramanian,Male,1969-08-22,nicholas.subramanian428@gmail.com,9409610556,Pune,Maharashtra,Teacher,Premium,Completed,Medium,2025-08-22
+CUST000306,Aashi,Raja,Female,1964-01-22,aashi.raja960@gmail.com,8925832067,Pune,Maharashtra,Retired,Premium,Completed,Medium,2024-02-19
+CUST000307,Chakradev,Kapadia,Male,1981-10-24,chakradev.kapadia582@gmail.com,2517908641,Chennai,Tamil Nadu,Civil Engineer,Retail,Pending,Low,2025-06-11
+CUST000308,Eiravati,Deshmukh,Female,1984-02-12,eiravati.deshmukh872@gmail.com,9389833146,Pune,Maharashtra,Mechanical Engineer,Retail,Completed,Low,2022-07-02
+CUST000309,Daksh,Sachdev,Male,1981-06-02,daksh.sachdev664@gmail.com,5904259792,Jaipur,Rajasthan,Business Owner,Priority,Completed,Low,2023-04-03
+CUST000310,Irya,Prakash,Female,1968-11-04,irya.prakash691@gmail.com,1039240514,Ahmedabad,Gujarat,Lawyer,Retail,Completed,Medium,2025-02-25
+CUST000311,Oni,Kadakia,Female,1996-04-17,oni.kadakia336@gmail.com,8792069804,Kolkata,West Bengal,Doctor,Retail,Completed,High,2022-07-28
+CUST000312,Irya,Madan,Female,1964-01-04,irya.madan959@gmail.com,1645104636,Hyderabad,Telangana,Lawyer,Retail,Completed,Low,2024-10-14
+CUST000313,Watika,Wali,Female,1965-08-25,watika.wali310@gmail.com,8003845762,Hyderabad,Telangana,Civil Engineer,Priority,Completed,Low,2022-07-04
+CUST000314,Peter,Mittal,Male,1972-08-12,peter.mittal684@gmail.com,0460843256,Mumbai,Maharashtra,Doctor,Retail,Completed,Low,2026-05-28
+CUST000315,Yoshita,Karan,Female,1981-02-15,yoshita.karan655@gmail.com,4957823298,Mumbai,Maharashtra,Business Owner,Retail,Completed,High,2024-05-17
+CUST000316,Zaitra,Deshmukh,Female,1981-09-22,zaitra.deshmukh466@gmail.com,9251881252,Pune,Maharashtra,Retired,Premium,Completed,Low,2026-01-21
+CUST000317,Tripti,Mitter,Female,1982-05-02,tripti.mitter822@gmail.com,2312209949,Kolkata,West Bengal,Student,Priority,Completed,Low,2026-03-07
+CUST000318,Jack,Kashyap,Male,1993-10-26,jack.kashyap458@gmail.com,2897526772,Kolkata,West Bengal,Mechanical Engineer,Priority,Completed,Low,2023-04-23
+CUST000319,Amol,Rege,Male,1997-06-12,amol.rege925@gmail.com,6333127975,Kolkata,West Bengal,Mechanical Engineer,Retail,Completed,Low,2021-08-02
+CUST000320,Tanmayi,Barman,Female,1990-01-31,tanmayi.barman697@gmail.com,6999880817,Mumbai,Maharashtra,Lawyer,Priority,Completed,Medium,2025-08-20
+CUST000321,Yochana,Yogi,Female,1980-02-09,yochana.yogi465@gmail.com,8034764472,Mumbai,Maharashtra,Teacher,Retail,Completed,Low,2025-03-10
+CUST000322,Avni,Varughese,Female,2003-12-26,avni.varughese741@gmail.com,1812982665,Chennai,Tamil Nadu,Software Engineer,Retail,Completed,Low,2023-10-30
+CUST000323,Utkarsh,Jaggi,Male,2002-12-28,utkarsh.jaggi434@gmail.com,2111751868,Mumbai,Maharashtra,Government Employee,Priority,Completed,Low,2021-12-17
+CUST000324,Ranveer,Bassi,Male,1997-08-14,ranveer.bassi33@gmail.com,2220644742,Jaipur,Rajasthan,Business Owner,Retail,Completed,Medium,2026-01-27
+CUST000325,Aadhya,Kulkarni,Female,1962-02-01,aadhya.kulkarni913@gmail.com,8097339776,Hyderabad,Telangana,Sales Executive,Retail,Completed,Low,2024-01-01
+CUST000326,Aarush,Konda,Male,2002-12-22,aarush.konda137@gmail.com,0220502099,Kolkata,West Bengal,Student,Priority,Completed,High,2022-11-26
+CUST000327,Arya,Chopra,Female,1981-02-09,arya.chopra131@gmail.com,9998279501,Kolkata,West Bengal,Retired,Premium,Completed,Medium,2022-05-27
+CUST000328,Sachi,Bir,Female,1997-02-27,sachi.bir690@gmail.com,4721458683,Jaipur,Rajasthan,Retired,Retail,Completed,Medium,2025-09-23
+CUST000329,Chatura,Wadhwa,Male,2007-11-29,chatura.wadhwa355@gmail.com,6954899529,Jaipur,Rajasthan,Teacher,Retail,Completed,Low,2023-12-06
+CUST000330,Yuvraj,Tailor,Male,1999-06-27,yuvraj.tailor829@gmail.com,4301071396,Mumbai,Maharashtra,Student,Retail,Completed,Medium,2025-12-06
+CUST000331,Parth,Kala,Male,1962-01-16,parth.kala212@gmail.com,4144885015,Bengaluru,Karnataka,Doctor,Retail,Completed,Low,2022-07-08
+CUST000332,Akshay,Gill,Male,1970-08-19,akshay.gill759@gmail.com,7027278576,Bengaluru,Karnataka,Software Engineer,Retail,Completed,Low,2025-09-06
+CUST000333,Nakul,Wason,Male,1962-05-24,nakul.wason516@gmail.com,5124056829,Pune,Maharashtra,Business Owner,Retail,Completed,Low,2024-05-25
+CUST000334,Devika,Morar,Female,1994-08-29,devika.morar310@gmail.com,4617357438,Bengaluru,Karnataka,Teacher,Premium,Completed,Low,2023-01-31
+CUST000335,Ridhi,Barad,Female,1998-01-25,ridhi.barad571@gmail.com,8078235784,Mumbai,Maharashtra,Civil Engineer,Priority,Completed,Low,2026-01-29
+CUST000336,Yauvani,Deo,Female,1971-02-27,yauvani.deo508@gmail.com,8104091570,Kolkata,West Bengal,Software Engineer,Premium,Completed,Low,2021-09-10
+CUST000337,Alka,Muni,Female,1991-07-16,alka.muni419@gmail.com,3448571422,New Delhi,Delhi,Teacher,Retail,Completed,Low,2022-07-24
+CUST000338,Charan,Jhaveri,Male,1987-01-05,charan.jhaveri308@gmail.com,2493214958,Bengaluru,Karnataka,Retired,Retail,Completed,Low,2024-04-04
+CUST000339,Amrita,Sinha,Female,2003-12-19,amrita.sinha571@gmail.com,0166299795,New Delhi,Delhi,Mechanical Engineer,Retail,Completed,Low,2021-10-06
+CUST000340,Balveer,Shroff,Male,1988-03-13,balveer.shroff868@gmail.com,1747733294,Jaipur,Rajasthan,Government Employee,Retail,Completed,Low,2021-12-22
+CUST000341,Oni,Nair,Female,1982-10-26,oni.nair690@gmail.com,1577245992,New Delhi,Delhi,Civil Engineer,Retail,Completed,Low,2021-08-30
+CUST000342,Chatresh,Nanda,Male,1987-08-26,chatresh.nanda214@gmail.com,8769639382,Jaipur,Rajasthan,Government Employee,Retail,Completed,Low,2021-11-12
+CUST000343,Onkar,Joshi,Male,1999-10-07,onkar.joshi765@gmail.com,9583219719,Mumbai,Maharashtra,Chartered Accountant,Premium,Completed,Low,2024-06-19
+CUST000344,Chasmum,Saxena,Female,1969-10-17,chasmum.saxena566@gmail.com,9196570132,Bengaluru,Karnataka,Government Employee,Priority,Completed,Low,2026-04-17
+CUST000345,Falguni,Sethi,Female,1986-06-25,falguni.sethi268@gmail.com,3354946519,Chennai,Tamil Nadu,Government Employee,Retail,Completed,Low,2023-06-18
+CUST000346,Tamanna,Datta,Female,2001-07-31,tamanna.datta937@gmail.com,0851403696,Hyderabad,Telangana,Lawyer,Retail,Completed,Low,2021-10-28
+CUST000347,Rayaan,Saran,Male,1987-02-18,rayaan.saran17@gmail.com,2386562422,Pune,Maharashtra,Business Owner,Retail,Completed,Low,2024-10-28
+CUST000348,Eshana,Sur,Female,1992-06-07,eshana.sur201@gmail.com,1267969278,Pune,Maharashtra,Government Employee,Retail,Completed,Low,2026-05-22
+CUST000349,Sanaya,Pant,Female,1972-02-15,sanaya.pant782@gmail.com,9738468950,Chennai,Tamil Nadu,Chartered Accountant,Premium,Completed,Low,2023-08-21
+CUST000350,Qarin,Chowdhury,Male,1988-10-13,qarin.chowdhury174@gmail.com,2847818913,Hyderabad,Telangana,Teacher,Priority,Completed,Medium,2026-04-28
+CUST000351,Nachiket,Bera,Male,2003-12-24,nachiket.bera35@gmail.com,7787956544,Kolkata,West Bengal,Doctor,Premium,Completed,Medium,2024-03-09
+CUST000352,Nidra,Lad,Female,1964-05-26,nidra.lad863@gmail.com,9049047128,Pune,Maharashtra,Student,Retail,Completed,Low,2023-11-17
+CUST000353,Ekaja,Mand,Female,1974-06-13,ekaja.mand62@gmail.com,9292752437,Hyderabad,Telangana,Civil Engineer,Retail,Completed,Medium,2022-10-18
+CUST000354,Pavani,Chad,Female,2006-12-23,pavani.chad7@gmail.com,7663723950,Mumbai,Maharashtra,Mechanical Engineer,Retail,Completed,Low,2024-06-28
+CUST000355,Geetika,Shetty,Female,1980-04-02,geetika.shetty294@gmail.com,6674286047,Kolkata,West Bengal,Software Engineer,Retail,Completed,Low,2023-01-07
+CUST000356,Ansh,Chatterjee,Male,2004-08-23,ansh.chatterjee941@gmail.com,9454414967,Mumbai,Maharashtra,Doctor,Retail,Completed,Low,2024-09-12
+CUST000357,Yoshita,Nazareth,Female,1993-05-13,yoshita.nazareth274@gmail.com,8001061817,Hyderabad,Telangana,Sales Executive,Retail,Pending,Low,2026-06-24
+CUST000358,Jeremiah,Hans,Male,1963-02-11,jeremiah.hans308@gmail.com,9391119269,Bengaluru,Karnataka,Student,Priority,Completed,High,2024-08-10
+CUST000359,Jonathan,Menon,Male,1983-06-17,jonathan.menon416@gmail.com,4654214066,Mumbai,Maharashtra,Sales Executive,Retail,Completed,Low,2026-03-12
+CUST000360,Kevin,Gokhale,Male,1982-03-21,kevin.gokhale512@gmail.com,9627128639,Mumbai,Maharashtra,Sales Executive,Retail,Completed,High,2023-12-21
+CUST000361,Charan,Banerjee,Male,1964-12-09,charan.banerjee942@gmail.com,7072006425,Kolkata,West Bengal,Software Engineer,Retail,Completed,Low,2024-05-14
+CUST000362,Yasti,Swaminathan,Female,1983-12-26,yasti.swaminathan48@gmail.com,8306719855,Chennai,Tamil Nadu,Doctor,Retail,Completed,Low,2023-07-13
+CUST000363,Chakradev,Pau,Male,1986-08-22,chakradev.pau952@gmail.com,7432806346,Pune,Maharashtra,Government Employee,Retail,Completed,Low,2026-04-26
+CUST000364,Chaman,Sarma,Female,1996-01-27,chaman.sarma307@gmail.com,0937618478,Mumbai,Maharashtra,Teacher,Retail,Completed,Medium,2022-03-18
+CUST000365,Pallavi,Bhalla,Female,1977-05-21,pallavi.bhalla774@gmail.com,1387829310,New Delhi,Delhi,Retired,Retail,Pending,Low,2025-02-12
+CUST000366,Vrishti,Bath,Female,1972-12-01,vrishti.bath101@gmail.com,2041792911,Mumbai,Maharashtra,Sales Executive,Retail,Completed,Low,2024-10-03
+CUST000367,Januja,Bhatnagar,Female,1999-04-28,januja.bhatnagar31@gmail.com,5198253092,Hyderabad,Telangana,Student,Retail,Pending,Low,2023-08-23
+CUST000368,Mahika,Dhaliwal,Female,1997-02-12,mahika.dhaliwal964@gmail.com,8273902196,Kolkata,West Bengal,Sales Executive,Retail,Completed,Low,2022-05-09
+CUST000369,Banjeet,Ahuja,Male,1961-11-08,banjeet.ahuja303@gmail.com,6723248763,Ahmedabad,Gujarat,Lawyer,Priority,Completed,Low,2026-02-22
+CUST000370,Gautam,Tata,Male,1990-04-12,gautam.tata325@gmail.com,5608331819,New Delhi,Delhi,Government Employee,Retail,Completed,Low,2021-12-13
+CUST000371,Januja,Shetty,Female,1997-09-19,januja.shetty105@gmail.com,0312772200,Chennai,Tamil Nadu,Teacher,Retail,Completed,Low,2024-10-22
+CUST000372,Urishilla,Krishnamurthy,Female,1977-03-23,urishilla.krishnamurthy27@gmail.com,0108220781,Mumbai,Maharashtra,Doctor,Retail,Completed,Low,2025-07-16
+CUST000373,Omaja,Saini,Female,1970-11-08,omaja.saini13@gmail.com,3153136363,New Delhi,Delhi,Business Owner,Retail,Completed,Low,2024-11-23
+CUST000374,Xavier,Bhagat,Male,2003-05-14,xavier.bhagat534@gmail.com,2652735435,Ahmedabad,Gujarat,Teacher,Retail,Completed,Low,2022-03-27
+CUST000375,Bhanumati,Mand,Female,1967-12-06,bhanumati.mand150@gmail.com,6253492929,Jaipur,Rajasthan,Doctor,Retail,Completed,Low,2025-10-08
+CUST000376,Samesh,Vig,Male,1984-07-03,samesh.vig258@gmail.com,7406335693,Hyderabad,Telangana,Lawyer,Priority,Completed,Low,2026-06-29
+CUST000377,Aahana,Sahni,Female,2007-07-31,aahana.sahni139@gmail.com,8068671773,Mumbai,Maharashtra,Business Owner,Retail,Completed,Medium,2021-09-17
+CUST000378,Tanvi,Kamdar,Female,1967-10-02,tanvi.kamdar451@gmail.com,0742799077,Hyderabad,Telangana,Government Employee,Retail,Completed,Low,2022-12-28
+CUST000379,Qasim,Shetty,Male,1994-08-06,qasim.shetty329@gmail.com,6580464989,Chennai,Tamil Nadu,Civil Engineer,Premium,Completed,Low,2021-07-08
+CUST000380,Oviya,Bhakta,Female,1985-09-14,oviya.bhakta299@gmail.com,0165790552,Hyderabad,Telangana,Retired,Retail,Completed,Low,2026-01-23
+CUST000381,Harsh,Devi,Male,2007-08-19,harsh.devi386@gmail.com,7933554864,Hyderabad,Telangana,Business Owner,Priority,Completed,Low,2022-09-14
+CUST000382,Orinder,Sethi,Male,1984-05-13,orinder.sethi559@gmail.com,7884795137,Ahmedabad,Gujarat,Teacher,Retail,Completed,High,2024-02-23
+CUST000383,Hemal,Mani,Female,2006-07-20,hemal.mani449@gmail.com,4127238046,Bengaluru,Karnataka,Business Owner,Priority,Completed,Medium,2021-11-23
+CUST000384,Prisha,Salvi,Female,1982-05-17,prisha.salvi143@gmail.com,3103856955,Jaipur,Rajasthan,Student,Retail,Completed,Low,2024-09-25
+CUST000385,Vamakshi,Shankar,Female,1975-10-21,vamakshi.shankar76@gmail.com,2437540254,New Delhi,Delhi,Chartered Accountant,Premium,Completed,Low,2022-03-04
+CUST000386,Gaurika,Wason,Female,1974-12-02,gaurika.wason38@gmail.com,2310592745,Kolkata,West Bengal,Government Employee,Priority,Completed,Low,2026-05-19
+CUST000387,Anay,Nadig,Male,2007-06-24,anay.nadig788@gmail.com,8284106727,Mumbai,Maharashtra,Lawyer,Retail,Completed,Low,2022-04-02
+CUST000388,Zehaan,Narula,Male,1991-12-07,zehaan.narula661@gmail.com,9297517028,Ahmedabad,Gujarat,Student,Retail,Pending,Low,2022-12-27
+CUST000389,Suhani,Kannan,Female,1982-06-22,suhani.kannan11@gmail.com,9398343018,Mumbai,Maharashtra,Doctor,Retail,Completed,Low,2021-12-21
+CUST000390,Ronith,Hayer,Male,1984-07-25,ronith.hayer384@gmail.com,5626565045,Jaipur,Rajasthan,Sales Executive,Retail,Completed,Low,2024-07-11
+CUST000391,Caleb,Kale,Male,1995-09-21,caleb.kale26@gmail.com,7426629912,Hyderabad,Telangana,Chartered Accountant,Retail,Completed,High,2023-09-25
+CUST000392,Oliver,Bhatti,Male,2005-05-15,oliver.bhatti357@gmail.com,1064628792,Pune,Maharashtra,Business Owner,Retail,Completed,Low,2024-06-19
+CUST000393,Mohini,Swaminathan,Female,1963-07-01,mohini.swaminathan100@gmail.com,7873002447,Jaipur,Rajasthan,Chartered Accountant,Priority,Completed,Low,2025-08-23
+CUST000394,Gaurav,Swamy,Male,2004-02-18,gaurav.swamy24@gmail.com,1471959796,Mumbai,Maharashtra,Government Employee,Retail,Completed,Low,2024-09-26
+CUST000395,Rachit,Vala,Male,1995-12-17,rachit.vala179@gmail.com,2902572520,Kolkata,West Bengal,Mechanical Engineer,Retail,Completed,High,2021-08-07
+CUST000396,Pranav,Bava,Male,1975-02-19,pranav.bava645@gmail.com,8321928554,New Delhi,Delhi,Teacher,Retail,Completed,Low,2024-02-28
+CUST000397,Patrick,Dhawan,Male,1962-02-13,patrick.dhawan607@gmail.com,7652132833,Jaipur,Rajasthan,Sales Executive,Retail,Completed,Low,2024-02-07
+CUST000398,Dakshesh,Sahni,Male,1983-02-26,dakshesh.sahni105@gmail.com,0754527985,Ahmedabad,Gujarat,Mechanical Engineer,Retail,Completed,Low,2021-11-22
+CUST000399,Dhriti,Kapadia,Female,1967-07-25,dhriti.kapadia541@gmail.com,4232161107,Jaipur,Rajasthan,Student,Retail,Completed,Low,2024-12-25
+CUST000400,Chatura,Bali,Male,1998-10-14,chatura.bali361@gmail.com,7140140119,Hyderabad,Telangana,Chartered Accountant,Retail,Completed,Low,2024-01-30
+CUST000401,Hiral,Panchal,Female,1962-11-21,hiral.panchal605@gmail.com,9552893891,Ahmedabad,Gujarat,Doctor,Retail,Completed,Low,2022-03-28
+CUST000402,Ikbal,Handa,Male,2006-10-31,ikbal.handa383@gmail.com,1387592712,Pune,Maharashtra,Retired,Retail,Completed,Low,2022-05-15
+CUST000403,Jalsa,Varkey,Female,1972-03-17,jalsa.varkey191@gmail.com,1718275480,New Delhi,Delhi,Chartered Accountant,Retail,Completed,Low,2022-01-28
+CUST000404,Dalbir,Rajan,Male,1974-11-04,dalbir.rajan171@gmail.com,7386463175,Kolkata,West Bengal,Chartered Accountant,Retail,Completed,Medium,2024-07-06
+CUST000405,Charles,Randhawa,Male,1982-02-06,charles.randhawa975@gmail.com,1266912153,Hyderabad,Telangana,Software Engineer,Retail,Completed,Low,2024-10-21
+CUST000406,Tamanna,Das,Female,1972-06-16,tamanna.das702@gmail.com,4994657967,New Delhi,Delhi,Chartered Accountant,Retail,Completed,Low,2023-08-20
+CUST000407,Utkarsh,Chokshi,Male,1967-04-04,utkarsh.chokshi32@gmail.com,2010170269,Ahmedabad,Gujarat,Lawyer,Retail,Completed,Low,2023-12-17
+CUST000408,Chanakya,Bose,Male,1992-08-01,chanakya.bose580@gmail.com,7347784858,Jaipur,Rajasthan,Retired,Priority,Completed,Low,2024-02-10
+CUST000409,Tanveer,Dani,Male,1979-07-18,tanveer.dani794@gmail.com,7700284276,Chennai,Tamil Nadu,Mechanical Engineer,Priority,Completed,Medium,2023-01-31
+CUST000410,Yagnesh,Choudhary,Male,1988-03-31,yagnesh.choudhary560@gmail.com,7828064796,Jaipur,Rajasthan,Lawyer,Premium,Completed,Medium,2023-12-19
+CUST000411,Naveen,Bhat,Male,1962-11-02,naveen.bhat896@gmail.com,5905616556,Chennai,Tamil Nadu,Software Engineer,Retail,Completed,Medium,2021-09-26
+CUST000412,Krishna,Keer,Female,1991-12-21,krishna.keer795@gmail.com,4152085076,Mumbai,Maharashtra,Lawyer,Retail,Completed,Low,2024-06-22
+CUST000413,Lila,Bahri,Female,1994-03-22,lila.bahri631@gmail.com,6965917135,Pune,Maharashtra,Teacher,Priority,Completed,Medium,2024-06-14
+CUST000414,Geetika,Mistry,Female,1978-08-03,geetika.mistry288@gmail.com,1834404963,Kolkata,West Bengal,Civil Engineer,Retail,Completed,Low,2023-09-10
+CUST000415,Charvi,Nayar,Female,1974-05-12,charvi.nayar274@gmail.com,6351484685,Ahmedabad,Gujarat,Mechanical Engineer,Premium,Completed,Low,2024-05-05
+CUST000416,Ladli,Varma,Female,1982-10-25,ladli.varma284@gmail.com,0829737489,Mumbai,Maharashtra,Student,Retail,Completed,Low,2025-04-30
+CUST000417,Yutika,Iyer,Female,1978-08-20,yutika.iyer780@gmail.com,4665136442,Bengaluru,Karnataka,Student,Retail,Completed,Low,2022-04-01
+CUST000418,Tanmayi,Khare,Female,1966-11-07,tanmayi.khare463@gmail.com,4778660324,New Delhi,Delhi,Doctor,Retail,Completed,Low,2022-06-21
+CUST000419,Maya,Goda,Female,1991-10-17,maya.goda466@gmail.com,0015941651,Hyderabad,Telangana,Chartered Accountant,Retail,Completed,Medium,2021-09-21
+CUST000420,Daksh,Tella,Male,2005-05-11,daksh.tella651@gmail.com,7139155963,Jaipur,Rajasthan,Student,Retail,Completed,Medium,2024-02-14
+CUST000421,Damyanti,Gill,Female,1971-07-30,damyanti.gill992@gmail.com,4907851586,Bengaluru,Karnataka,Sales Executive,Priority,Completed,Low,2022-11-19
+CUST000422,Eta,Patil,Female,1983-11-06,eta.patil561@gmail.com,0900348645,Hyderabad,Telangana,Civil Engineer,Retail,Completed,Medium,2023-05-08
+CUST000423,Timothy,Rama,Male,1961-11-19,timothy.rama102@gmail.com,4134327560,Mumbai,Maharashtra,Student,Priority,Completed,Low,2026-04-26
+CUST000424,Warinder,Sachar,Male,2005-01-21,warinder.sachar468@gmail.com,1248156985,Jaipur,Rajasthan,Software Engineer,Premium,Completed,High,2023-03-05
+CUST000425,George,Sawhney,Male,1998-09-09,george.sawhney163@gmail.com,3459112382,Chennai,Tamil Nadu,Business Owner,Retail,Completed,Low,2022-03-11
+CUST000426,Upkaar,Sridhar,Male,2002-07-26,upkaar.sridhar406@gmail.com,9543165266,Mumbai,Maharashtra,Student,Retail,Completed,Low,2022-03-06
+CUST000427,Advay,Karnik,Male,2004-02-18,advay.karnik2@gmail.com,4206969421,Mumbai,Maharashtra,Lawyer,Retail,Completed,Low,2026-05-20
+CUST000428,Dhriti,Atwal,Female,1995-04-15,dhriti.atwal9@gmail.com,7133344762,Mumbai,Maharashtra,Retired,Retail,Completed,Medium,2023-09-09
+CUST000429,Hritik,Mandal,Male,1995-09-01,hritik.mandal73@gmail.com,6204439735,Jaipur,Rajasthan,Lawyer,Retail,Completed,Low,2022-06-16
+CUST000430,Aashi,Singh,Female,1967-10-10,aashi.singh903@gmail.com,3669411800,Hyderabad,Telangana,Business Owner,Retail,Completed,Medium,2023-02-16
+CUST000431,Peter,Bath,Male,1961-10-07,peter.bath71@gmail.com,4652809242,Pune,Maharashtra,Mechanical Engineer,Retail,Completed,Low,2024-01-13
+CUST000432,Vinaya,Deo,Female,1965-09-22,vinaya.deo644@gmail.com,2415027456,Bengaluru,Karnataka,Retired,Retail,Completed,Low,2025-01-23
+CUST000433,Kevin,Varughese,Male,1976-03-23,kevin.varughese919@gmail.com,7287032032,Mumbai,Maharashtra,Doctor,Retail,Completed,Low,2025-12-22
+CUST000434,Gautami,Sibal,Female,1982-01-09,gautami.sibal323@gmail.com,0758777121,New Delhi,Delhi,Teacher,Retail,Completed,Low,2026-06-28
+CUST000435,Meghana,Gole,Female,2000-10-02,meghana.gole869@gmail.com,9939089261,Mumbai,Maharashtra,Student,Priority,Completed,Low,2025-04-06
+CUST000436,Nitesh,Bal,Male,1974-11-15,nitesh.bal303@gmail.com,6591520177,New Delhi,Delhi,Student,Retail,Completed,High,2026-06-02
+CUST000437,Aahana,Narayan,Female,2007-02-03,aahana.narayan116@gmail.com,5923045018,New Delhi,Delhi,Lawyer,Retail,Completed,Low,2024-10-16
+CUST000438,Ryan,Kumer,Male,1969-11-17,ryan.kumer957@gmail.com,1032664214,Hyderabad,Telangana,Government Employee,Retail,Completed,Low,2026-05-04
+CUST000439,Ekaja,Parmer,Female,1992-10-16,ekaja.parmer700@gmail.com,7767499616,Kolkata,West Bengal,Teacher,Priority,Pending,Medium,2025-09-03
+CUST000440,Teerth,Sandhu,Male,1965-11-18,teerth.sandhu70@gmail.com,3278814761,Ahmedabad,Gujarat,Software Engineer,Retail,Completed,Low,2024-01-29
+CUST000441,Eesha,Mital,Female,2001-01-23,eesha.mital294@gmail.com,9081081866,Kolkata,West Bengal,Student,Priority,Completed,Low,2024-02-16
+CUST000442,Lajita,Pant,Female,1973-06-28,lajita.pant656@gmail.com,1722601645,Mumbai,Maharashtra,Mechanical Engineer,Retail,Completed,Low,2021-12-02
+CUST000443,Kevin,Om,Male,2006-12-12,kevin.om944@gmail.com,3219416800,Kolkata,West Bengal,Lawyer,Premium,Completed,Low,2025-11-13
+CUST000444,Frederick,Sood,Male,1983-02-21,frederick.sood716@gmail.com,4995641220,Chennai,Tamil Nadu,Sales Executive,Priority,Completed,Low,2023-07-16
+CUST000445,Girindra,Bala,Male,1971-05-07,girindra.bala119@gmail.com,6831472760,New Delhi,Delhi,Chartered Accountant,Retail,Completed,Low,2024-10-03
+CUST000446,Tristan,Sundaram,Male,1983-09-03,tristan.sundaram13@gmail.com,3496050166,Mumbai,Maharashtra,Retired,Retail,Completed,Low,2025-10-23
+CUST000447,Mohini,Bansal,Female,1984-06-04,mohini.bansal530@gmail.com,3080695814,Kolkata,West Bengal,Retired,Retail,Completed,Low,2023-12-11
+CUST000448,Yachana,Palan,Female,1982-08-01,yachana.palan790@gmail.com,4375738395,Mumbai,Maharashtra,Software Engineer,Retail,Completed,Low,2023-09-10
+CUST000449,Nandini,Ramakrishnan,Female,2006-08-15,nandini.ramakrishnan643@gmail.com,7293417223,Ahmedabad,Gujarat,Doctor,Retail,Completed,Low,2025-09-05
+CUST000450,Chandresh,Sagar,Male,2005-11-01,chandresh.sagar162@gmail.com,3800545228,Hyderabad,Telangana,Business Owner,Priority,Completed,Low,2023-12-25
+CUST000451,Tanveer,Comar,Male,1990-07-16,tanveer.comar759@gmail.com,7455084289,Bengaluru,Karnataka,Mechanical Engineer,Retail,Completed,Low,2022-02-11
+CUST000452,Veer,Choudhry,Male,2007-04-28,veer.choudhry373@gmail.com,8081213524,Jaipur,Rajasthan,Sales Executive,Premium,Completed,High,2025-06-03
+CUST000453,Chandran,Dube,Male,1991-12-04,chandran.dube823@gmail.com,1376037548,Kolkata,West Bengal,Retired,Priority,Completed,Low,2023-03-09
+CUST000454,Ria,Sachdeva,Female,1978-06-18,ria.sachdeva278@gmail.com,8632666785,Hyderabad,Telangana,Doctor,Retail,Completed,Low,2024-11-01
+CUST000455,Abdul,Varughese,Male,2005-11-11,abdul.varughese229@gmail.com,6260602908,Pune,Maharashtra,Mechanical Engineer,Premium,Pending,Low,2021-12-07
+CUST000456,Nidra,Murthy,Female,2004-03-30,nidra.murthy793@gmail.com,8926738997,Chennai,Tamil Nadu,Business Owner,Retail,Completed,Low,2021-07-20
+CUST000457,Matthew,Chad,Male,1963-04-02,matthew.chad578@gmail.com,8843188485,Chennai,Tamil Nadu,Business Owner,Priority,Completed,Low,2023-03-09
+CUST000458,Leela,Khurana,Female,2000-08-17,leela.khurana751@gmail.com,8105485101,Bengaluru,Karnataka,Mechanical Engineer,Priority,Completed,Low,2023-01-12
+CUST000459,Aahana,Setty,Female,1977-06-11,aahana.setty239@gmail.com,5449268315,Mumbai,Maharashtra,Mechanical Engineer,Retail,Completed,Medium,2022-09-10
+CUST000460,Radha,Sha,Female,1966-02-13,radha.sha778@gmail.com,1106273715,Mumbai,Maharashtra,Student,Retail,Completed,Low,2025-01-26
+CUST000461,Rudra,Lalla,Male,1988-12-22,rudra.lalla244@gmail.com,7622827728,Kolkata,West Bengal,Sales Executive,Retail,Completed,High,2024-09-10
+CUST000462,Vasatika,Solanki,Female,1963-01-17,vasatika.solanki45@gmail.com,1961159408,Mumbai,Maharashtra,Lawyer,Priority,Completed,Low,2022-04-18
+CUST000463,Niharika,Prasad,Female,1975-10-07,niharika.prasad998@gmail.com,2960443270,Jaipur,Rajasthan,Retired,Retail,Completed,Low,2023-12-10
+CUST000464,Bhavna,Basu,Female,1981-02-20,bhavna.basu607@gmail.com,5679228777,Mumbai,Maharashtra,Civil Engineer,Retail,Completed,Low,2024-05-17
+CUST000465,Tara,Ram,Female,1972-06-15,tara.ram872@gmail.com,7412094818,Chennai,Tamil Nadu,Government Employee,Premium,Completed,Medium,2023-06-28
+CUST000466,Avni,Vig,Female,1970-06-01,avni.vig464@gmail.com,1820433971,Hyderabad,Telangana,Business Owner,Retail,Completed,Low,2023-11-22
+CUST000467,Sai,Bath,Male,1984-08-11,sai.bath109@gmail.com,6260856411,Pune,Maharashtra,Teacher,Retail,Completed,Low,2026-03-08
+CUST000468,Mekhala,Dhawan,Female,1970-02-05,mekhala.dhawan463@gmail.com,4620952004,Bengaluru,Karnataka,Business Owner,Retail,Completed,Low,2025-05-09
+CUST000469,Ekta,Sachar,Female,2003-06-26,ekta.sachar42@gmail.com,0339937886,Ahmedabad,Gujarat,Lawyer,Priority,Completed,Low,2022-10-20
+CUST000470,Nathan,Shetty,Male,1987-07-05,nathan.shetty406@gmail.com,6304891382,Hyderabad,Telangana,Mechanical Engineer,Retail,Completed,Medium,2021-11-02
+CUST000471,Udant,Chacko,Male,2001-04-15,udant.chacko975@gmail.com,5823868700,Mumbai,Maharashtra,Sales Executive,Priority,Completed,Low,2024-01-06
+CUST000472,Fiyaz,Acharya,Male,1964-05-04,fiyaz.acharya105@gmail.com,9465398402,Jaipur,Rajasthan,Teacher,Retail,Completed,Medium,2026-02-14
+CUST000473,Mason,Chakraborty,Male,1980-02-03,mason.chakraborty203@gmail.com,8463985547,Pune,Maharashtra,Sales Executive,Retail,Completed,Low,2022-02-15
+CUST000474,Panini,Kade,Female,1983-02-14,panini.kade23@gmail.com,2097002687,Mumbai,Maharashtra,Doctor,Retail,Completed,Medium,2024-07-05
+CUST000475,Balvan,Yohannan,Male,1962-12-20,balvan.yohannan126@gmail.com,1569562017,Hyderabad,Telangana,Software Engineer,Premium,Completed,Medium,2025-09-03
+CUST000476,Aarna,Kant,Female,1996-06-09,aarna.kant509@gmail.com,3194337504,New Delhi,Delhi,Software Engineer,Retail,Completed,Low,2025-04-21
+CUST000477,Aarush,Hayre,Male,2007-10-09,aarush.hayre287@gmail.com,4987283999,Chennai,Tamil Nadu,Chartered Accountant,Priority,Completed,Low,2024-09-14
+CUST000478,Devansh,Bhattacharyya,Male,1967-07-03,devansh.bhattacharyya511@gmail.com,8430894870,Chennai,Tamil Nadu,Sales Executive,Priority,Completed,Low,2026-03-07
+CUST000479,Upma,Ray,Female,1974-05-24,upma.ray430@gmail.com,7580304687,Pune,Maharashtra,Lawyer,Retail,Completed,Low,2024-11-29
+CUST000480,Gunbir,Natt,Male,1965-05-11,gunbir.natt801@gmail.com,3613325411,New Delhi,Delhi,Retired,Retail,Completed,Low,2024-05-15
+CUST000481,Amaira,Natt,Female,2001-01-06,amaira.natt277@gmail.com,3505831997,New Delhi,Delhi,Teacher,Retail,Completed,Low,2022-09-30
+CUST000482,Diya,Chada,Female,2007-04-25,diya.chada829@gmail.com,5120704961,Mumbai,Maharashtra,Chartered Accountant,Retail,Completed,High,2026-02-04
+CUST000483,Atharv,Menon,Male,2001-06-16,atharv.menon254@gmail.com,3990767699,Mumbai,Maharashtra,Student,Retail,Completed,Medium,2023-07-09
+CUST000484,Utkarsh,Varughese,Male,1976-12-08,utkarsh.varughese590@gmail.com,0919392845,Bengaluru,Karnataka,Sales Executive,Retail,Completed,Medium,2022-06-22
+CUST000485,Tristan,Grewal,Male,1972-12-09,tristan.grewal607@gmail.com,2496854982,Bengaluru,Karnataka,Government Employee,Priority,Completed,Medium,2025-07-01
+CUST000486,Onveer,Manne,Male,1978-11-06,onveer.manne971@gmail.com,0388065333,Hyderabad,Telangana,Civil Engineer,Retail,Completed,Low,2021-07-20
+CUST000487,Vyanjana,Sibal,Female,1989-09-13,vyanjana.sibal317@gmail.com,9465217073,Kolkata,West Bengal,Teacher,Retail,Completed,Low,2023-03-03
+CUST000488,Viraj,Kala,Male,1972-09-30,viraj.kala540@gmail.com,6362050150,Mumbai,Maharashtra,Chartered Accountant,Retail,Completed,Low,2025-03-09
+CUST000489,Maanav,Sarraf,Male,1970-08-26,maanav.sarraf735@gmail.com,0033423425,Hyderabad,Telangana,Teacher,Premium,Completed,Low,2024-06-10
+CUST000490,Guneet,Bains,Male,1969-10-15,guneet.bains601@gmail.com,0261534735,Pune,Maharashtra,Retired,Premium,Completed,Medium,2022-10-27
+CUST000491,Urishilla,Bhattacharyya,Female,1967-01-31,urishilla.bhattacharyya383@gmail.com,3386559630,Mumbai,Maharashtra,Retired,Premium,Completed,Low,2025-12-04
+CUST000492,Nandini,Dixit,Female,1976-11-29,nandini.dixit140@gmail.com,2897317912,Hyderabad,Telangana,Teacher,Priority,Completed,Low,2021-10-11
+CUST000493,Ridhi,Tara,Female,1985-11-25,ridhi.tara179@gmail.com,8777496903,Hyderabad,Telangana,Retired,Premium,Completed,Medium,2022-05-29
+CUST000494,Kamya,Randhawa,Female,1971-10-15,kamya.randhawa682@gmail.com,9254812147,Bengaluru,Karnataka,Civil Engineer,Priority,Completed,Low,2023-08-21
+CUST000495,Anvi,Shroff,Female,1985-08-03,anvi.shroff182@gmail.com,7665754602,Pune,Maharashtra,Retired,Retail,Completed,Low,2023-03-12
+CUST000496,Baljiwan,Parmer,Male,2003-11-18,baljiwan.parmer617@gmail.com,4311150835,Pune,Maharashtra,Government Employee,Premium,Pending,Low,2022-12-26
+CUST000497,Matthew,Maharaj,Male,1970-06-22,matthew.maharaj145@gmail.com,8404456690,Jaipur,Rajasthan,Government Employee,Priority,Completed,High,2024-07-13
+CUST000498,Rushil,Kari,Male,1972-03-06,rushil.kari842@gmail.com,3898775153,Mumbai,Maharashtra,Retired,Retail,Completed,Low,2025-04-04
+CUST000499,Theodore,Sengupta,Male,2001-08-07,theodore.sengupta215@gmail.com,9240755366,Chennai,Tamil Nadu,Lawyer,Retail,Completed,Medium,2021-08-30
+CUST000500,Nicholas,Bajaj,Male,1988-03-10,nicholas.bajaj396@gmail.com,2599996636,Mumbai,Maharashtra,Chartered Accountant,Priority,Pending,Medium,2021-09-02

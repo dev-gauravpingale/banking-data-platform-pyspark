@@ -1,0 +1,87 @@
+merchant_id,merchant_name,merchant_category,city,state
+MER0001,Indian Oil Ltd,Fuel,Chennai,Tamil Nadu
+MER0002,Swiggy Inc,Food Delivery,Bengaluru,Karnataka
+MER0003,Nayara Energy Inc,Fuel,Pune,Maharashtra
+MER0004,Airtel Ltd,Utilities,Mumbai,Maharashtra
+MER0005,DMart LLC,Grocery,Hyderabad,Telangana
+MER0006,Swiggy and Sons,Food Delivery,Kolkata,West Bengal
+MER0007,Zomato and Sons,Food Delivery,Hyderabad,Telangana
+MER0008,Spotify and Sons,Entertainment,Chennai,Tamil Nadu
+MER0009,Reliance Fresh Ltd,Grocery,Jaipur,Rajasthan
+MER0010,Reliance Digital Inc,Electronics,Bengaluru,Karnataka
+MER0011,Zomato Ltd,Food Delivery,Pune,Maharashtra
+MER0012,Shell Ltd,Fuel,Pune,Maharashtra
+MER0013,Reliance Digital PLC,Electronics,Lucknow,Uttar Pradesh
+MER0014,Amazon Inc,Shopping,New Delhi,Delhi
+MER0015,IRCTC PLC,Travel,Jaipur,Rajasthan
+MER0016,Nayara Energy Group,Fuel,Chennai,Tamil Nadu
+MER0017,TANGEDCO Inc,Utilities,Lucknow,Uttar Pradesh
+MER0018,Zomato Inc,Food Delivery,Pune,Maharashtra
+MER0019,Ajio and Sons,Shopping,Ahmedabad,Gujarat
+MER0020,KFC PLC,Restaurant,Ahmedabad,Gujarat
+MER0021,Zomato PLC,Food Delivery,Pune,Maharashtra
+MER0022,Vi Inc,Utilities,Bengaluru,Karnataka
+MER0023,MakeMyTrip PLC,Travel,Bengaluru,Karnataka
+MER0024,Netflix and Sons,Entertainment,Chennai,Tamil Nadu
+MER0025,MakeMyTrip Ltd,Travel,Ahmedabad,Gujarat
+MER0026,Reliance Digital Ltd,Electronics,Chennai,Tamil Nadu
+MER0027,HP Petrol Pump PLC,Fuel,Lucknow,Uttar Pradesh
+MER0028,Croma Group,Electronics,New Delhi,Delhi
+MER0029,Max Hospital and Sons,Healthcare,Bengaluru,Karnataka
+MER0030,Flipkart Group,Shopping,Hyderabad,Telangana
+MER0031,Goibibo PLC,Travel,Lucknow,Uttar Pradesh
+MER0032,Max Hospital LLC,Healthcare,Ahmedabad,Gujarat
+MER0033,BookMyShow and Sons,Entertainment,Mumbai,Maharashtra
+MER0034,HP Petrol Pump Ltd,Fuel,Bengaluru,Karnataka
+MER0035,Apollo Pharmacy Group,Healthcare,Jaipur,Rajasthan
+MER0036,Meesho LLC,Shopping,Mumbai,Maharashtra
+MER0037,Nayara Energy and Sons,Fuel,Chennai,Tamil Nadu
+MER0038,Croma and Sons,Electronics,Chennai,Tamil Nadu
+MER0039,MedPlus LLC,Healthcare,New Delhi,Delhi
+MER0040,Nature's Basket Inc,Grocery,Chennai,Tamil Nadu
+MER0041,MakeMyTrip Inc,Travel,Kolkata,West Bengal
+MER0042,Bharat Petroleum Group,Fuel,Kolkata,West Bengal
+MER0043,MSEB Inc,Utilities,Bengaluru,Karnataka
+MER0044,Croma LLC,Electronics,Kolkata,West Bengal
+MER0045,IRCTC LLC,Travel,Lucknow,Uttar Pradesh
+MER0046,Bharat Petroleum LLC,Fuel,Chennai,Tamil Nadu
+MER0047,BESCOM Ltd,Utilities,Pune,Maharashtra
+MER0048,BookMyShow Group,Entertainment,Kolkata,West Bengal
+MER0049,McDonald's PLC,Restaurant,New Delhi,Delhi
+MER0050,Yatra Group,Travel,Hyderabad,Telangana
+MER0051,Fortis Hospital PLC,Healthcare,New Delhi,Delhi
+MER0052,Yatra LLC,Travel,Pune,Maharashtra
+MER0053,Swiggy Ltd,Food Delivery,Pune,Maharashtra
+MER0054,Croma PLC,Electronics,Lucknow,Uttar Pradesh
+MER0055,MakeMyTrip LLC,Travel,Lucknow,Uttar Pradesh
+MER0056,Swiggy PLC,Food Delivery,Pune,Maharashtra
+MER0057,Reliance Fresh and Sons,Grocery,Pune,Maharashtra
+MER0058,More Ltd,Grocery,Pune,Maharashtra
+MER0059,PVR Cinemas Inc,Entertainment,Kolkata,West Bengal
+MER0060,Subway Ltd,Restaurant,Lucknow,Uttar Pradesh
+MER0061,Airtel and Sons,Utilities,Hyderabad,Telangana
+MER0062,Netflix LLC,Entertainment,Hyderabad,Telangana
+MER0063,Indian Oil Inc,Fuel,Jaipur,Rajasthan
+MER0064,Reliance Digital and Sons,Electronics,Jaipur,Rajasthan
+MER0065,BookMyShow Inc,Entertainment,Pune,Maharashtra
+MER0066,Star Bazaar Group,Grocery,Ahmedabad,Gujarat
+MER0067,HP Petrol Pump LLC,Fuel,Hyderabad,Telangana
+MER0068,Zomato Group,Food Delivery,Bengaluru,Karnataka
+MER0069,MedPlus Ltd,Healthcare,Chennai,Tamil Nadu
+MER0070,PVR Cinemas LLC,Entertainment,Pune,Maharashtra
+MER0071,Nature's Basket LLC,Grocery,Kolkata,West Bengal
+MER0072,Burger King and Sons,Restaurant,New Delhi,Delhi
+MER0073,PVR Cinemas Ltd,Entertainment,Jaipur,Rajasthan
+MER0074,Reliance Fresh LLC,Grocery,Jaipur,Rajasthan
+MER0075,Star Bazaar Ltd,Grocery,Chennai,Tamil Nadu
+MER0076,INOX Ltd,Entertainment,Jaipur,Rajasthan
+MER0077,Yatra Ltd,Travel,Bengaluru,Karnataka
+MER0078,Big Bazaar PLC,Grocery,Kolkata,West Bengal
+MER0079,Nature's Basket Ltd,Grocery,Ahmedabad,Gujarat
+MER0080,DMart and Sons,Grocery,Lucknow,Uttar Pradesh
+MER0081,Spotify PLC,Entertainment,Kolkata,West Bengal
+MER0082,Domino's Ltd,Restaurant,Kolkata,West Bengal
+MER0083,HP Petrol Pump and Sons,Fuel,Pune,Maharashtra
+MER0084,BESCOM and Sons,Utilities,Hyderabad,Telangana
+MER0085,Swiggy Group,Food Delivery,Lucknow,Uttar Pradesh
+MER0086,Shell LLC,Fuel,Lucknow,Uttar Pradesh
